@@ -1,0 +1,544 @@
+# Top 2025 deals by clicks on blackfridaydeals.dev. Software only.
+deals:
+  - name: Laracasts
+    url: "https://laracasts.com/referral/5balloons"
+    category: courses
+    offer: "50% OFF on all subscriptions, Forever plan at $200 , Yearly at $75"
+    description: Your Path to Laravel Mastery Starts Here...
+    featured: true
+  - name: Tailkit
+    url: "https://tailkit.com/?aff=1k6yr"
+    category: ui-kits
+    offer: "50% off for a limited number of licenses using code BLACKFRIDAY2025"
+    description: Build amazing web apps and websites that your users will love using
+    featured: true
+  - name: Codecourse
+    url: "https://codecourse.com?ref=blackfridaydeals.dev"
+    category: courses
+    offer: "50% off all plans using BLACKFRIDAY2025"
+    description: Screencasts that focus on building real apps.
+  - name: Laravel Daily
+    url: "https://laraveldaily.com/"
+    category: courses
+    offer: "40% off yearly/lifetime membership (no coupon needed) , FRIDAY2550 will give 50% off! (first 50 People)"
+    description: Home of tutorials, videos and tips about our beloved framework
+  - name: Supercharge Design
+    url: "https://learn.supercharge.design/a/aff_rcgt4kxq/external?affcode=1102338__uvxmve6"
+    category: courses
+    offer: "Use BF2025 for 50% OFF"
+    description: Unlock all Supercharge Design courses and tools at our biggest discount ever.
+    featured: true
+  - name: Domain Driven Design
+    url: "https://domain-driven-design-laravel.com/"
+    category: books
+    offer: "70% OFF (already discounted)"
+    description: Are You Tired Of Monster Controllers And Models?, With this guide, you can get rid of them forever.
+  - name: Flux UI
+    url: "https://fluxui.dev/pricing"
+    category: laravel-php
+    offer: "40% OFF"
+    description: The official Livewire component library.
+    featured: true
+  - name: TablePlus
+    url: "https://tableplus.com?ref=blackfridaydealsdotdev"
+    category: developer-tools
+    offer: "25% OFF with code BLACK_FRIDAY_2025"
+    description: "Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more"
+    featured: true
+  - name: Herd
+    url: "https://herd.laravel.com/?ref=5balloons"
+    category: laravel-php
+    offer: "30% OFF on Pro and Team plan"
+    description: Laravel Development perfected.
+    featured: true
+  - name: shadcn/studio
+    url: "https://shadcn-studio.lemonsqueezy.com?aff=1k6yr"
+    category: ui-kits
+    offer: "30% OFF using coupon code: BFCM30SS"
+    description: "Accelerate your project development with ready-to-use, & customizable 1000+ Shadcn UI Components, Blocks, UI Kit, Boilerplate, Templates &…"
+    featured: true
+  - name: LivewireDemos
+    url: "https://livewiredemos.com?ref=thehomedev"
+    category: laravel-php
+    offer: "50% OFF using code BLACKFRIDAY25"
+    description: Library of Livewire Components.
+  - name: Tailkits UI
+    url: "https://tailkits.com/ui/"
+    category: ui-kits
+    offer: "Up to 60% OFF one-time purchase - use code BLACKFRIDAY2025 at checkout."
+    description: Build faster with 200+ Tailwind CSS components.
+    featured: true
+  - name: Tinkerwell
+    url: "https://tinkerwell.app/?ref=5balloons"
+    category: laravel-php
+    offer: "25% on Tinkerwell"
+    description: Quickly iterate on PHP code within the context of your web application.
+  - name: Larafast
+    url: "https://larafast.com?aff=1k6yr"
+    category: starter-kits
+    offer: "50% off on all starter kits with BLACKFRIDAY2025"
+    description: Larafast - Laravel SaaS Starter Kit with all the necessary features to transform your idea into reality in just a matter of hours.
+  - name: Web Development with Go
+    url: "https://www.usegolang.com/"
+    category: courses
+    offer: "50% OFF"
+    description: Learn to build real, production-grade web applications from scratch.
+  - name: Rails 8 Everything Bundle
+    url: "https://robrace.gumroad.com/l/r8eb/bfcm25?a=912288051"
+    category: books
+    offer: "use code bfcm25 for 60% off"
+    description: Get both the Build a SaaS App in Rails 8 Complete Package and the Realtime Rails package to level up your knowledge.This is a collection…
+  - name: Epic React
+    url: "https://epicreact.dev/?utm_source=blackfridaydeals&utm_medium=blackfridaydeals&utm_campaign=blackfridaydeals"
+    category: courses
+    offer: "50% OFF"
+    description: One of the best premium React courses out there according to many reviews
+  - name: Ray
+    url: "https://myray.app/?ref=thehomedev"
+    category: laravel-php
+    offer: "30% OFF"
+    description: Ray is a desktop application that serves as the dedicated home for debugging output.
+  - name: Compot
+    url: "https://www.compotui.com/"
+    category: mobile
+    offer: "50% OFF Annual Subscription with code BF2025."
+    description: Design and develop SwiftUI apps faster with Compot – a growing library of crafted SwiftUI components and templates ready to copy and use…
+  - name: DevOps with Laravel
+    url: "https://devops-with-laravel.io/"
+    category: books
+    offer: "70% OFF (discount applied)"
+    description: With this guide, you can learn everything about deployments, Docker, Kubernetes, and how to use them with Laravel.
+  - name: Pragmatic Bookshelf (Rails)
+    url: "https://pragprog.com/categories/ruby-and-rails/?ref=blackfridaydeals.dev"
+    category: books
+    offer: "50% OFF using code save50"
+    description: Book By Developers, For Developers
+  - name: Hacking with Swift
+    url: "https://twostraws.gumroad.com/l/hws-everything/blackfriday24?a=912288051"
+    category: courses
+    offer: "50% OFF using blackfriday25"
+    description: "The Hacking with Swift: Everything Pack gives you every Hacking with Swift book currently published for one great price."
+  - name: Untitled UI
+    url: "https://store.untitledui.com?aff=1k6yr"
+    category: design
+    offer: "30% OFF using DESIGNERUP"
+    description: Untitled UI is the largest and best-selling Figma UI kit and design system in the world.
+  - name: Proton VPN
+    url: "https://go.getproton.me/aff_c?offer_id=26&aff_id=6511"
+    category: developer-tools
+    offer: "upto 75% OFF"
+    description: no log VPN, privacy concerned, Swiss based
+  - name: Frameblox
+    url: "https://frameblox.com?aff=1k6yr"
+    category: design
+    offer: "50% off using code BLACKFRIDAY25"
+    description: Frameblox is the ultimate Framer UI kit, design system, and component library.
+  - name: Laravel Beyond CRUD
+    url: "https://laravel-beyond-crud.com/?ref=blackfridaydeals.dev"
+    category: courses
+    offer: "30% OFF"
+    description: Learn how to build larger-than-average Laravel applications and maintain them for years to come
+  - name: Filament Examples
+    url: "https://filamentexamples.com?ref=blackfridaydealsdotdev"
+    category: laravel-php
+    offer: "40% off all plans (enter coupon FRIDAY25)"
+    description: Build your app with Filament
+  - name: Backpack for Laravel
+    url: "https://backpackforlaravel.com?ref=blackfridaydeals.dev"
+    category: laravel-php
+    offer: "50% Off using BLACKWEEK25"
+    description: Administration panels on Laravel have never been so easy to build.
+  - name: Best Practices for Laravel Enterprise Applications
+    url: "https://wendelladriel.gumroad.com/l/best-practices-for-laravel-enterprise-applications?a=912288051"
+    category: books
+    offer: "50% OFF using code BLACKFRIDAY"
+    description: "Build Laravel Enterprise Applications the Right Way!Learn to build High-Performance, Maintainable,Scalable and Secure Solutions for…"
+  - name: BatFi
+    url: "https://micropixels.gumroad.com/l/batfi?a=912288051"
+    category: developer-tools
+    offer: "30% OFF"
+    description: Meet BatFi, a native and lightweight app that simplifies battery management
+  - name: JavaScript Certification
+    url: "https://certificates.dev/javascript?friend=BFDEALS"
+    category: developer-tools
+    offer: "60% off"
+    description: We certify devs from 350+ companies while our Examinations (3 levels) have been created in collaboration with some of the most well-known…
+    featured: true
+  - name: Beyond Code
+    url: "https://twostraws.gumroad.com/l/beyondcode/blackfriday24?a=912288051"
+    category: books
+    offer: "50% OFF using code blackfriday25"
+    description: Learn the meta-skills you need to be a better coder
+  - name: Learn Go in one evening
+    url: "https://threedots.tech/go-in-one-evening/?utm_source=gh-black-friday-2024"
+    category: courses
+    offer: "50% OFF with code BLACKFRIDAY"
+    description: Learn Go programming in one evening with our hands-on, interactive online training.
+  - name: LaraDevs
+    url: "https://laradevs.com/?via=tushar"
+    category: laravel-php
+    offer: for Teams is on for $599/year. Price will go up to $1,499/year in the new year.
+    description: The biggest and most diverse directory of Laravel and PHP developers
+  - name: Vue School
+    url: "https://vueschool.io/sales/blackfriday?ref=blackfridaydeals.dev&friend=BFDEALS"
+    category: courses
+    offer: "60% off Yearly or Lifetime subscription"
+    description: Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and…
+    featured: true
+  - name: Observer
+    url: "https://observer.dev?ref=thehome.dev"
+    category: laravel-php
+    offer: "30% OFF"
+    description: All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application.
+  - name: Microservices with Laravel
+    url: "https://microservices-laravel.io/"
+    category: books
+    offer: "70% OFF (discount applied)"
+    description: The complete guide to mastering microservices with Laravel
+  - name: Codebit
+    url: "https://codebit.xyz/"
+    category: design
+    offer: "50% off on the 1-year Professional Plan ($99 instead of $199) by entering code BLACKFRIDAY25"
+    description: Create animations from code snippets, and export them as videos to share with your community.
+    featured: true
+  - name: SwiftLee Courses
+    url: "https://courses.avanderlee.com/l/products?sortKey=recommended&sortDirection=asc&page=1"
+    category: courses
+    offer: "60% OFF"
+    description: SwiftLee Swift Courses
+  - name: Event Sourcing in Laravel
+    url: "https://event-sourcing-laravel.com/?ref=thehomedev"
+    category: courses
+    offer: "30% OFF"
+    description: A hands-on course to start using event sourcing in large apps
+  - name: Universal Design System
+    url: "https://123done.lemonsqueezy.com/?aff=1k6yr"
+    category: design
+    offer: "SAVE 50% WITH CODE BF25"
+    description: Universal Design System (Web) is a powerful tool for creating landing pages, websites and dashboards in Figma.
+  - name: daisyUI Store
+    url: "https://daisyui.com/store/?aff=1k6yr"
+    category: ui-kits
+    offer: "Discount code BLACKFRIDAY Will apply 40% discount"
+    description: Templates made with daisyUI and Tailwind CSS
+  - name: Scale to Zero AWS
+    url: "https://scaletozeroaws.lemonsqueezy.com?aff=1k6yr"
+    category: hosting
+    offer: "50% OFF with code BLACKFRIDAY2025"
+    description: Production-ready, highly-scalable, cost-efficient AWS serverless kit that scales to zero 💡🚀.
+  - name: ShipThatApp
+    url: "https://www.shipthat.app/?ia=tushar&utm_source=blackfridaydeals&utm_medium=list&utm_campaign=BlackFriday2024"
+    category: mobile
+    offer: "50% OFF using BF25"
+    description: "🚀 ShipThat.App – Build & Launch iOS Apps Faster! Get boilerplate code, submission tools, and AI-powered features to simplify app…"
+  - name: Consuming APIs in Laravel
+    url: "https://consuming-apis-in-laravel.com/?ref=blackfridaydeals.dev"
+    category: books
+    offer: "30% OFF using coupon code 30BLACKFRIDAY2025"
+    description: Build Robust and Powerful API Integrations For Your Laravel Projects With Ease
+  - name: Certification for Laravel
+    url: "https://certificationforlaravel.com/developers#developer_exams"
+    category: laravel-php
+    offer: "Black Friday Deal: 33% discount on ALL Certification for Laravel Exams + FREE Practice Exam. Use voucher code LARAVELBF33"
+    description: Certification for Laravel information for developer exams and practice exams.
+    featured: true
+  - name: Pluralsight
+    url: "https://pluralsight.pxf.io/6yenK3"
+    category: courses
+    offer: "comeback60 60% off"
+    description: Pluralsight helps organizations, teams, and individuals build better products with online courses and data-driven insights that fuel skill…
+  - name: Tailwind Plus + Refactoring UI
+    url: "https://tailwindcss.com/plus/black-friday"
+    category: ui-kits
+    offer: "save over 33%"
+    description: Tailwind Plus + Refactoring UI
+  - name: Testing Laravel
+    url: "https://testing-laravel.com/?utm_source=thehome.dev"
+    category: courses
+    offer: "30% OFF"
+    description: Learn how to write quality tests in Pest and PHPUnit
+  - name: Astro
+    url: "https://tryastro.app?aff=1k6yr"
+    category: mobile
+    offer: "Use the code BLACKFRIDAY2025 to get 30% off"
+    description: App Store Optimization Tool for iOS Developers
+  - name: Expose.dev
+    url: "https://expose.dev/?ref=5balloons"
+    category: laravel-php
+    offer: "30% OFF"
+    description: Create public URLs for local sites through any firewall and VPN.
+  - name: High Performance PostgreSQL for Rails
+    url: "https://pragprog.com/titles/aapsql/high-performance-postgresql-for-rails/"
+    category: books
+    offer: "50% off with code save50"
+    description: Build faster, more reliable Rails apps by taking the best advanced PostgreSQL and Active Record capabilities, and using them to solve your…
+  - name: GoRails
+    url: "https://gorails.com/pricing?ref=thehomedev"
+    category: courses
+    offer: "36% off GoRails with the yearly plan"
+    description: Ruby on Rails training for you and your team.
+  - name: Node CLI Automation
+    url: "https://nodecli.com?ref=thehomedev"
+    category: courses
+    offer: "86% off (no code required)"
+    description: After building hundreds of developer automation tools used by millions of developers, I am teaching exactly how you can do it yourself…
+  - name: Dev Utils
+    url: "https://devutils.com?ref=blackfridaydeals.dev"
+    category: developer-tools
+    offer: "50% OFF with code BLACKFRIDAY2025"
+    description: All-in-one Toolbox for Developers
+  - name: Cloudcasts
+    url: "https://cloudcasts.io/courses"
+    category: courses
+    offer: "40% OFF"
+    description: The AWS Courses
+  - name: Spin Pro
+    url: "https://getspin.pro/"
+    category: laravel-php
+    offer: "50% OFF using MONSTERSALE"
+    description: PAY ONCE infrastructure.
+  - name: SaaSykit
+    url: "https://saasykit.com?aff=1k6yr"
+    category: starter-kits
+    offer: "Get 25% OFF with code BLACKFRIDAY2025"
+    description: SaaSykit is a Laravel-based boilerplate with everything you need to build an awesome SaaS.
+  - name: Nextless.js
+    url: "https://nextlessjs.com?ref=blackfridaydeals.dev"
+    category: starter-kits
+    offer: "66% off"
+    description: The fastest way to build scalable and production-ready SaaS products.
+  - name: Bridge Components
+    url: "https://bridgecomponents.dev"
+    category: mobile
+    offer: "20% off a PRO license with code FRIDAY25."
+    description: A library of production-ready bridge components that you can drop into your app in minutes.
+    featured: true
+  - name: "Advanced Ruby: Behind the Magic"
+    url: "https://courses.gorails.com/advanced-ruby-for-rails-devs?coupon=4KBO4XN"
+    category: courses
+    offer: "17% off with coupon code 4KBO4XN"
+    description: This course teaches everything I wish I knew about Ruby when I was starting my career as a Rails developer.
+  - name: Pentaclay
+    url: "https://pentaclay.lemonsqueezy.com?aff=1k6yr"
+    category: design
+    offer: "50% discount on All Access plans using FRIDAY50"
+    description: "High-quality Framer templates & components"
+  - name: NeetCode
+    url: "https://neetcode.io/"
+    category: courses
+    offer: "25% off"
+    description: A better way to prepare for coding interviews.
+  - name: Indexing Beyond the Basics
+    url: "https://goodindexes.com/"
+    category: developer-tools
+    offer: "50% discount automatically applied"
+    description: Indexes can be easy.
+  - name: System Design with Laravel
+    url: "https://martinjoo.gumroad.com/l/system-design-with-laravel-pro?a=912288051"
+    category: books
+    offer: "50% OFF ($29 instead of $49)"
+    description: A practical 267-page guide that takes you from simple one-server setups to microservices with autoscaling.
+  - name: MacWhisper
+    url: "https://gumroad.com/a/533265683/ivpqk"
+    category: developer-tools
+    offer: "25% OFF using BFF2025"
+    description: "Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper."
+    featured: true
+  - name: Laravel Concepts
+    url: "https://laravel-concepts.io/"
+    category: books
+    offer: "70% OFF (discount applied)"
+    description: With this guide, you can learn about ideas and concepts that recur on a daily basis in our job.
+  - name: Tilly The Coder
+    url: "https://tillythecoder.com/pricing"
+    category: courses
+    offer: "40% off until Black Friday. On Friday it’ll be 70% discount."
+    description: "Unlimited access to 11+ courses & 10+ premium Laravel tutorials.1-month free trial on Monthly."
+  - name: Wire Elements
+    url: "https://wire-elements.dev?ref=thehomedev"
+    category: laravel-php
+    offer: "Up to 30% OFF"
+    description: Supercharge your Livewire applications
+  - name: KeyBoard Kit Pro
+    url: "https://kankoda.gumroad.com/l/keyboardkitpro?a=912288051"
+    category: mobile
+    offer: "BLACK-FRIDAY-2025 gives 50% off on both yearly and monthly plans."
+    description: "KeyboardKit lets you create fully customizable keyboard extensions for iOS in minutes, using Swift & SwiftUI."
+    featured: true
+  - name: Figma Fast-Track Course
+    url: "https://maven.com/build-together/product-design-masterclass?promoCode=100OFF&ref=blackfridaydeals.dev"
+    category: courses
+    offer: $100 off using coupon 100OFF
+    description: Master Figma, learn app design from zero to 100.
+  - name: Filament Bootcamp
+    url: "https://jorgearturorojas.gumroad.com/l/filament-bootcamp?a=912288051"
+    category: courses
+    offer: "50% off"
+    description: "In this Filament Bootcamp, I'll use a practical example to teach you the ropes of Filament v3."
+  - name: The Pragmatic Studio
+    url: "https://pragmaticstudio.com/?ref=blackfridaydealsdotdev"
+    category: courses
+    offer: "40% off Use coupon code 2025THANKS"
+    description: Premium video courses for software developers.
+  - name: "Course: Getting Started: macOS apps with SwiftUI"
+    url: "https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24?a=912288051 "
+    category: courses
+    offer: "40% Off using the coupon code BLACKFRIDAY25"
+    description: "This course will teach you the key concepts in macOS development with SwiftUI (Apple's framework for building user interfaces) and show…"
+  - name: RetroUI Pro
+    url: "https://pro.retroui.dev/?linkId=lp_271605&sourceId=blackfridaydeals&tenantId=logging-studio"
+    category: ui-kits
+    offer: "Use coupon \"BFRIDAY\" and get 50% off!"
+    description: Premium blocks and templates inspired by the Neo-Brutalism design system.
+  - name: TailGrids
+    url: "https://tailgrids.com/pricing"
+    category: ui-kits
+    offer: "30% Off using Coupon Code: BLFCM2025"
+    description: 500+ Tailwind CSS UI Components for - Web App, Marketing, Dashboard, E-Commerce, and More
+  - name: Test-Driven APIs with Laravel and Pest
+    url: "https://test-driven-api-laravel.io/"
+    category: books
+    offer: "70% OFF (already discounted)"
+    description: "After a 2-hour read, you'll be able to achieve 90%+ code coverage in an easy, maintainable way."
+  - name: Javascript for Rails Developers
+    url: "https://javascriptforrails.com/"
+    category: books
+    offer: "30% OFF"
+    description: "JavaScript for Rails Developers: A focused book teaching Stimulus JS and modern JavaScript patterns."
+  - name: Securing Laravel
+    url: "https://securinglaravel.com/black-friday-2024/?ref=blackfridaydealsdev"
+    category: courses
+    offer: No sale plans this year
+    description: The essential security resource for Laravel devs, covering everything you need to keep your apps secure through weekly security tips and…
+  - name: FullStack Advanced React and GraphQL
+    url: "https://advancedreact.com/?utm_source=blackfridaydeals.dev&utm_medium=link&utm_campaign=blackfridaydeals"
+    category: courses
+    offer: "50% OFF"
+    description: The course has been entirely updated and re-recorded for the latest in React.js, Hooks, Apollo 3 and the Keystone Headless CMS.
+  - name: Laravel Package Training
+    url: "https://laravelpackage.training/?ref=blackfridaydeals.dev"
+    category: courses
+    offer: "30% OFF"
+    description: Learn how to create a Laravel package
+  - name: Rails Designer
+    url: "https://railsdesigner.com/?ref=blackfridaydealsdev"
+    category: mobile
+    offer: "30% discount."
+    description: Rails Designer is the first professionally-designed UI components library for Ruby on Rails.
+  - name: Laravel Nova
+    url: "https://nova.laravel.com/"
+    category: laravel-php
+    offer: "30% OFF"
+    description: Craft complete backends in minutes.
+  - name: Build a SaaS App in Ruby on Rails 8
+    url: "https://robrace.gumroad.com/l/basair8cp/bfcm25?a=912288051"
+    category: books
+    offer: "Use link or code bfcm25 for 60% off"
+    description: This book will guide you through your very first rails commands, through integrating Stripe, background jobs and finally deploying your…
+  - name: Modular Laravel
+    url: "https://modularlaravel.com/?ref=thehome.dev"
+    category: books
+    offer: "Get 50% off"
+    description: Learn how to build modular Laravel Applications.
+  - name: PointFree
+    url: "https://www.pointfree.co/"
+    category: courses
+    offer: "30% OFF"
+    description: "Point-Free: A video series exploring advanced programming topics in Swift."
+  - name: Battle Ready Laravel
+    url: "https://battle-ready-laravel.com/"
+    category: books
+    offer: "30% OFF using coupon code 30BLACKFRIDAY2025"
+    description: A guide to auditing, testing, fixing, and improving your Laravel applications.
+  - name: Media Library Pro
+    url: "https://medialibrary.pro/?ref=blackfridaydealsdotdev"
+    category: laravel-php
+    offer: "30% OFF"
+    description: UI components for laravel-medialibrary package
+  - name: FilamentFlow
+    url: "https://filamentflow.io/"
+    category: starter-kits
+    offer: discounted to $99
+    description: FilamentFlow is a Laravel SaaS boilerplate to simplify development with ready-made tools for multi-tenancy, subscriptions, and more.
+  - name: Laravel Shift
+    url: "https://laravelshift.com/"
+    category: laravel-php
+    offer: $500 off on everything plan
+    description: Laravel Shift - the automated way to upgrade Laravel applications.
+  - name: Vue Mastery
+    url: "https://www.vuemastery.com/black-friday?ref=blackfridaydeals.dev"
+    category: courses
+    offer: "Get 40% off a year of Vue Mastery using 40off_2025"
+    description: Level up your skills with the highest quality Vue tutorials
+  - name: Spike Billing
+    url: "https://spike.opcodes.io?ref=blackfridaydealsdev"
+    category: laravel-php
+    offer: "33% off both Single and Unlimited licenses!"
+    description: "Best billing portal for your Laravel app, supports Stripe and Paddle, and includes a credit management system!"
+  - name: LeetCode
+    url: "https://leetcode.com/"
+    category: courses
+    offer: THANKS2024 - $30 off annual plan
+    description: Level up your coding skills and quickly land a job.
+  - name: Poedit
+    url: "https://poedit.net"
+    category: developer-tools
+    offer: "30% off with coupon BLACKFRIDAY25"
+    description: "Developer-friendly translation editor with JSON & front-end formats support, plus automatic pre-translation via DeepL"
+    featured: true
+  - name: Laravel Comments
+    url: "https://laravel-comments.com/?utm_source=blackfridaydeals.dev"
+    category: laravel-php
+    offer: "30% OFF"
+    description: A package for Laravel.
+  - name: Eloquent performance patterns
+    url: "https://reinink.gumroad.com/l/tIewN?a=912288051"
+    category: courses
+    offer: "33% OFF using BLACKFRIDAY"
+    description: "You'll get:Access to a total of 28 lessons Includes 6 additional advanced lessons on natural sorting, full-text searching and geospatial…"
+  - name: Anything
+    url: "https://www.createanything.com/?via=tushar"
+    category: developer-tools
+    offer: "- 50% all plans (monthly, yearly, credits) - Code: BFDEALSDEV50 -"
+    description: Anything is your AI agent for turning ideas into apps.
+  - name: FramerCrafts
+    url: "https://nomandoesui.lemonsqueezy.com?aff=1k6yr"
+    category: design
+    offer: "40% off using FRAMERFRIDAY"
+    description: Your go-to library for supercharged Framer components and overrides, designed to elevate your Framer websites.
+  - name: Test Driving Rails
+    url: "https://strzibny.gumroad.com/l/testdrivingrails/prerelease?a=912288051"
+    category: books
+    offer: "30% OFF using code prerelease"
+    description: "IMPORTANT: The book is currently offered in beta in PDF."
+  - name: Test with Go
+    url: "https://testwithgo.com/"
+    category: courses
+    offer: "50% OFF"
+    description: Learn how to test real, complex software written in Go
+  - name: Framerize
+    url: "https://framerize.co?aff=1k6yr"
+    category: design
+    offer: "50% discount. Use code BF2025"
+    description: Get access to 300+ customizable Framer components.
+  - name: Learn Hotwire
+    url: "https://learnhotwire.com"
+    category: courses
+    offer: "16% off"
+    description: Learn how to build modern apps with Rails, iOS and Android with the most comprehensive tutorial on Hotwire.
+  - name: Laravel Queues in Action
+    url: "https://learn-laravel-queues.com/#buy"
+    category: books
+    offer: "30% OFF for individuals, 20% OFF for team copy"
+    description: Learn how to use the queue system to make your applications faster and more reliable while reducing running costs.
+  - name: Phlex on Rails
+    url: "https://beautifulruby.com/phlex"
+    category: courses
+    offer: "20% Off Phlex on Rails video course & content at check-out"
+    description: Video Course Build amazing user interfaces in Rails with Phlex 💪
+    featured: true
+  - name: FlyonUI
+    url: "https://flyonui.lemonsqueezy.com?aff=1k6yr"
+    category: ui-kits
+    offer: "Discount: 30% Promo Code: BFCM30FY Limit: For the first 100 buyers only"
+    description: Get access to 1000+ premium Tailwind CSS components, responsive pages, and themes crafted for professionals.
