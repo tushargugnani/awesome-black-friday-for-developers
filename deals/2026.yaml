@@ -1,2 +1,7 @@
 # 2026 submissions. One product per PR. See CONTRIBUTING.md
-deals: []
+deals:
+  - name: Karma.Domains
+    url: https://karma.domains/en/black-friday/
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF yearly Unlimited & Pro plans (Nov 27 - Nov 30, 2026 UTC)"
+    description: Expired domain search with Wayback Machine spam analysis, Karma Score, SEO metrics, a Public API and an MCP server.
