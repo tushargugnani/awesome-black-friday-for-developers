@@ -25,10 +25,9 @@ Star the repo if you want a reminder when 2026 deals start landing.
 
 ## 2026 deals
 
-Nothing live yet. Black Friday 2026 is **Friday 27 November**.
-
-Want in? Open a pull request with your product (see [CONTRIBUTING.md](CONTRIBUTING.md)). We review every submission. AI slop, waitlist landing pages, and week-old wrappers get closed.
-
+| Name | What it is | Offer |
+| --- | --- | --- |
+| [Karma.Domains](https://karma.domains/en/black-friday/) | Expired domain search with Wayback Machine spam analysis, Karma Score, SEO metrics, a Public API and an MCP server. | Black Friday 2026: 50% OFF yearly Unlimited & Pro plans (Nov 27 - Nov 30, 2026 UTC) |
 
 ## Submit a deal
 
