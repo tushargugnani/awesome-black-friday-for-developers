@@ -28,6 +28,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | Name | What it is | Offer |
 | --- | --- | --- |
 | [Karma.Domains](https://karma.domains/en/black-friday/) | Expired domain search with Wayback Machine spam analysis, Karma Score, SEO metrics, a Public API and an MCP server. | Black Friday 2026: 50% OFF yearly Unlimited & Pro plans (Nov 27 - Nov 30, 2026 UTC) |
+| [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS. | Black Friday 2026: 40% OFF with code BLACKFRIDAY26, direct purchase only (Nov 20 - Dec 1, 2026) |
 
 ## Submit a deal
 

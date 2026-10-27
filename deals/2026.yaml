@@ -5,3 +5,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF yearly Unlimited & Pro plans (Nov 27 - Nov 30, 2026 UTC)"
     description: Expired domain search with Wayback Machine spam analysis, Karma Score, SEO metrics, a Public API and an MCP server.
+  - name: JuxtaCode
+    url: https://juxtacode.app
+    category: developer-tools
+    offer: "Black Friday 2026: 40% OFF with code BLACKFRIDAY26, direct purchase only (Nov 20 - Dec 1, 2026)"
+    description: Compare Git branches and resolve merge conflicts with ease on macOS.
