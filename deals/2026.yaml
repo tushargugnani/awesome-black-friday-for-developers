@@ -15,3 +15,8 @@ deals:
     category: courses
     offer: "Black Friday 2026: 20% OFF all plans forever, including lifetime, with code BLKFRI20 (Nov 1 - Dec 5, 2026)"
     description: Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training.
+  - name: DevUtils
+    url: https://devutils.com
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF with code BLACKFRIDAY2026"
+    description: All-in-one offline toolbox for developers on macOS.
