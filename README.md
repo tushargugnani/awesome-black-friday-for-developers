@@ -35,6 +35,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server. | Black Friday 2026: 40% OFF all paid plans for 12 months with code BLKFRI40, card checkout (Nov 2 - Dec 6, 2026) |
 | [Presentify](https://presentifyapp.com) | Native Mac app to draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching. | Black Friday 2026: 30% OFF with code PRESENTIFY30 ($14 to $9.80, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026) |
 | [FaceScreen](https://facescreen.app) | Floating camera overlay with a text overlay and ring light, for screen recordings, demos, and video calls on Mac, iPhone, and iPad. | Black Friday 2026: 30% OFF with code FACESCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026) |
+| [KeyScreen](https://keyscreen.app) | Native Mac app that shows the keys you press on screen, for tutorials, streams, and live demos. | Black Friday 2026: 30% OFF with code KEYSCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026) |
 
 ## Submit a deal
 

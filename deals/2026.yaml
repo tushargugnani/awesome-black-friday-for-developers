@@ -40,3 +40,8 @@ deals:
     category: design
     offer: "Black Friday 2026: 30% OFF with code FACESCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026)"
     description: Floating camera overlay with a text overlay and ring light, for screen recordings, demos, and video calls on Mac, iPhone, and iPad.
+  - name: KeyScreen
+    url: https://keyscreen.app
+    category: developer-tools
+    offer: "Black Friday 2026: 30% OFF with code KEYSCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026)"
+    description: Native Mac app that shows the keys you press on screen, for tutorials, streams, and live demos.
