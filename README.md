@@ -32,6 +32,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training. | Black Friday 2026: 20% OFF all plans forever, including lifetime, with code BLKFRI20 (Nov 1 - Dec 5, 2026) |
 | [SmoothCapture](https://www.smoothcapture.app/pricing) | Mac app that turns screen recordings into polished app demo videos, with auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models. | Black Friday 2026: 50% OFF Lifetime ($149 to $74.50) and Personal ($79 to $39.50) with code BLACKFRIDAY26 (Nov 3 - Dec 2, 2026) |
 | [Karve](https://karve.dev/pricing/?utm_source=blackfridaydeals-dev&utm_campaign=bf2026) | Native Windows HTTP client for the .http/.rest files in your repos, with cross-repo search, environments, and searchable history. | Black Friday 2026: 75% OFF, one-time $39.99 to $9.99 on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026) |
+| [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server. | Black Friday 2026: 40% OFF all paid plans for 12 months with code BLKFRI40, card checkout (Nov 2 - Dec 6, 2026) |
 
 ## Submit a deal
 

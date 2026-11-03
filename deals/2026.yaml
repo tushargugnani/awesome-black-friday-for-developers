@@ -25,3 +25,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 75% OFF, one-time $39.99 to $9.99 on the Microsoft Store, no code needed, 15-day free trial (until Dec 1, 2026)"
     description: Native Windows HTTP client for the .http/.rest files in your repos, with cross-repo search, environments, and searchable history.
+  - name: anon.li
+    url: https://anon.li/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 40% OFF all paid plans for 12 months with code BLKFRI40, card checkout (Nov 2 - Dec 6, 2026)"
+    description: Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server.
