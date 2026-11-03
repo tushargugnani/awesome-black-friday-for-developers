@@ -35,3 +35,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF with code PRESENTIFY30 ($14 to $9.80, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026)"
     description: Native Mac app to draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching.
+  - name: FaceScreen
+    url: https://facescreen.app
+    category: design
+    offer: "Black Friday 2026: 30% OFF with code FACESCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026)"
+    description: Floating camera overlay with a text overlay and ring light, for screen recordings, demos, and video calls on Mac, iPhone, and iPad.
