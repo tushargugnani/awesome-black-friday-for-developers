@@ -30,3 +30,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF all paid plans for 12 months with code BLKFRI40, card checkout (Nov 2 - Dec 6, 2026)"
     description: Open-source email aliases, end-to-end encrypted file sharing and encrypted forms, with a CLI, API and MCP server.
+  - name: Presentify
+    url: https://presentifyapp.com
+    category: developer-tools
+    offer: "Black Friday 2026: 30% OFF with code PRESENTIFY30 ($14 to $9.80, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026)"
+    description: Native Mac app to draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching.
