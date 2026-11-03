@@ -45,3 +45,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF with code KEYSCREEN30 ($5.99 to $4.19, one-time purchase), direct purchase from the website only (Nov 18 - Dec 2, 2026)"
     description: Native Mac app that shows the keys you press on screen, for tutorials, streams, and live demos.
+  - name: JSON2Video
+    url: https://json2video.com/pricing/blackfriday-2026/?c=tg
+    category: developer-tools
+    offer: "Black Friday 2026: 25% OFF the first year of yearly plans with code BF2026TG, Professional $399.60 to $299.70 and Hobby $199.50 to $149.63 (Nov 24 - Dec 1, 2026)"
+    description: Video editing API that renders MP4 videos from JSON or templates, with AI voices, subtitles and AI images, usable from code, n8n, Make, Zapier and MCP.
