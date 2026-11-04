@@ -50,3 +50,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 25% OFF the first year of yearly plans with code BF2026TG, Professional $399.60 to $299.70 and Hobby $199.50 to $149.63 (Nov 24 - Dec 1, 2026)"
     description: Video editing API that renders MP4 videos from JSON or templates, with AI voices, subtitles and AI images, usable from code, n8n, Make, Zapier and MCP.
+  - name: SyncSignature
+    url: https://syncsignature.com/?utm_source=tushargugnani&utm_medium=bf-listicle&utm_campaign=bfcm26
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF Teams plan, 2 years for the price of 1 ($360 to $180 for 24 months, up to 5 users), no code needed (Nov 10 - Dec 4, 2026)"
+    description: Email signature management for Google Workspace and Microsoft 365, with directory sync, banner campaigns, click analytics and an MCP server.
