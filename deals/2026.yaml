@@ -55,3 +55,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF Teams plan, 2 years for the price of 1 ($360 to $180 for 24 months, up to 5 users), no code needed (Nov 10 - Dec 4, 2026)"
     description: Email signature management for Google Workspace and Microsoft 365, with directory sync, banner campaigns, click analytics and an MCP server.
+  - name: TypingMind
+    url: https://www.typingmind.com?utm_source=tushargugnani
+    category: developer-tools
+    offer: "Black Friday 2026: 60% OFF Lifetime Premium ($198 to $79) with code BLACKFRIDAY2026 (Nov 2 - Dec 15, 2026)"
+    description: Advanced AI chat for ChatGPT, Claude, Gemini and more — all models in one place, with AI agents, MCP, plugins, knowledge base and private local storage.
