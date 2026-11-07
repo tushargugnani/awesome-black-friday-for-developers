@@ -65,3 +65,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 60% OFF all plans with code BLACKFRIDAY2026 (Nov 2 - Dec 30, 2026)"
     description: Offline all-in-one developer toolbox for macOS with 47+ native tools.
+  - name: GutSlider Pro
+    url: https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026
+    category: ui-kits
+    offer: "Black Friday 2026: up to 40% OFF all plans, lifetime from $69 (was $99), no code needed (Nov 5 - Dec 1, 2026)"
+    description: Slider and carousel blocks for the WordPress block editor, including a 3D carousel, WebGL shader slider and WooCommerce carousels, with no jQuery.
