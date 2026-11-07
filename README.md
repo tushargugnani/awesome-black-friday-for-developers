@@ -40,6 +40,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [SyncSignature](https://syncsignature.com/?utm_source=tushargugnani&utm_medium=bf-listicle&utm_campaign=bfcm26) | Email signature management for Google Workspace and Microsoft 365, with directory sync, banner campaigns, click analytics and an MCP server. | Black Friday 2026: 50% OFF Teams plan, 2 years for the price of 1 ($360 to $180 for 24 months, up to 5 users), no code needed (Nov 10 - Dec 4, 2026) |
 | [TypingMind](https://www.typingmind.com?utm_source=tushargugnani) | Advanced AI chat for ChatGPT, Claude, Gemini and more — all models in one place, with AI agents, MCP, plugins, knowledge base and private local storage. | Black Friday 2026: 60% OFF Lifetime Premium ($198 to $79) with code BLACKFRIDAY2026 (Nov 2 - Dec 15, 2026) |
 | [DevUtils](https://devutils.com/?utm_source=tushargugnani) | Offline all-in-one developer toolbox for macOS with 47+ native tools. | Black Friday 2026: 60% OFF all plans with code BLACKFRIDAY2026 (Nov 2 - Dec 30, 2026) |
+| [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider and carousel blocks for the WordPress block editor, including a 3D carousel, WebGL shader slider and WooCommerce carousels, with no jQuery. | Black Friday 2026: up to 40% OFF all plans, lifetime from $69 (was $99), no code needed (Nov 5 - Dec 1, 2026) |
 
 ## Submit a deal
 
