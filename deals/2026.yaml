@@ -75,3 +75,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF Standard ($19.99 to $13.99) and Pro ($29.99 to $20.99) with code BF2026 (Nov 4 - Dec 15, 2026)"
     description: Native macOS clipboard manager with searchable history, smart lists and Paste Stack for development workflows.
+  - name: Sip
+    url: https://sipapp.io/pricing/?ref=tushargugnani
+    category: design
+    offer: "Black Friday 2026: 50% OFF with code BLACKFRIDAY26 (Nov 27 - Dec 1, 2026)"
+    description: Modern color picker for Mac that brings ease to color organization and team collaboration.
