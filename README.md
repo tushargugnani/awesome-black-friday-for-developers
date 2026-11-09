@@ -43,6 +43,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider and carousel blocks for the WordPress block editor, including a 3D carousel, WebGL shader slider and WooCommerce carousels, with no jQuery. | Black Friday 2026: up to 40% OFF all plans, lifetime from $69 (was $99), no code needed (Nov 5 - Dec 1, 2026) |
 | [CleanClip](https://pricing.cleanclip.cc/src?ref=tusharbf2026) | Native macOS clipboard manager with searchable history, smart lists and Paste Stack for development workflows. | Black Friday 2026: 30% OFF Standard ($19.99 to $13.99) and Pro ($29.99 to $20.99) with code BF2026 (Nov 4 - Dec 15, 2026) |
 | [Sip](https://sipapp.io/pricing/?ref=tushargugnani) | Modern color picker for Mac that brings ease to color organization and team collaboration. | Black Friday 2026: 50% OFF with code BLACKFRIDAY26 (Nov 27 - Dec 1, 2026) |
+| [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Black Friday 2026: [30% OFF one year](https://labex.io/checkout?type=2&coupon=2026BF30) with code 2026BF30; [50% OFF two years](https://labex.io/checkout?type=4&coupon=2026BF50) with code 2026BF50 (ends Dec 7, 2026) |
 
 ## Submit a deal
 
