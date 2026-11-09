@@ -80,3 +80,8 @@ deals:
     category: design
     offer: "Black Friday 2026: 50% OFF with code BLACKFRIDAY26 (Nov 27 - Dec 1, 2026)"
     description: Modern color picker for Mac that brings ease to color organization and team collaboration.
+  - name: LabEx Pro
+    url: https://labex.io/
+    category: courses
+    offer: "Black Friday 2026: [30% OFF one year](https://labex.io/checkout?type=2&coupon=2026BF30) with code 2026BF30; [50% OFF two years](https://labex.io/checkout?type=4&coupon=2026BF50) with code 2026BF50 (ends Dec 7, 2026)"
+    description: Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud.
