@@ -90,3 +90,8 @@ deals:
     category: design
     offer: "Black Friday 2026: up to 53% OFF one-time licenses, Lifetime $449 to $209.90 with BFS2026L (53%) and Pro $149 to $79.90 with BFS2026P (46%) (Nov 4 - Dec 15, 2026)"
     description: Native macOS screen recorder and editor for tutorials and app demos, with automatic zoom, cursor tracking, and flexible camera layouts.
+  - name: Broadcast
+    url: https://sendbroadcast.net/black-friday
+    category: developer-tools
+    offer: "Black Friday 2026: $100 OFF the Regular License, one-time ($250 to $150), with code BLACKFRIDAY26 (Nov 9 - Dec 1, 2026)"
+    description: Self-hosted email marketing for your own server, with newsletters, automations, transactional email, a REST API and an MCP server.
