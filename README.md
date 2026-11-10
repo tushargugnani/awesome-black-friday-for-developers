@@ -46,6 +46,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [LabEx Pro](https://labex.io/) | Browser-based hands-on labs for Linux, DevOps, Cybersecurity, and Cloud. | Black Friday 2026: [30% OFF one year](https://labex.io/checkout?type=2&coupon=2026BF30) with code 2026BF30; [50% OFF two years](https://labex.io/checkout?type=4&coupon=2026BF50) with code 2026BF50 (ends Dec 7, 2026) |
 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=tusharbf2026) | Native macOS screen recorder and editor for tutorials and app demos, with automatic zoom, cursor tracking, and flexible camera layouts. | Black Friday 2026: up to 53% OFF one-time licenses, Lifetime $449 to $209.90 with BFS2026L (53%) and Pro $149 to $79.90 with BFS2026P (46%) (Nov 4 - Dec 15, 2026) |
 | [Broadcast](https://sendbroadcast.net/black-friday) | Self-hosted email marketing for your own server, with newsletters, automations, transactional email, a REST API and an MCP server. | Black Friday 2026: $100 OFF the Regular License, one-time ($250 to $150), with code BLACKFRIDAY26 (Nov 9 - Dec 1, 2026) |
+| [Scanify](https://scanify.to/pricing) | Checks a link, file, QR code or IP before you open it, with 95+ antivirus engines, domain age, redirects and a sandbox screenshot of the page. | Black Friday 2026: 50% OFF Lifetime Pro with code BLACKFRIDAY ($29 to $14.50, one payment), or 50% OFF Pro monthly for 3 months with code BFPRO ($20 to $10/mo) (Nov 10 - Dec 9, 2026) |
 
 ## Submit a deal
 

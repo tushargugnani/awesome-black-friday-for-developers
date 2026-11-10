@@ -95,3 +95,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: $100 OFF the Regular License, one-time ($250 to $150), with code BLACKFRIDAY26 (Nov 9 - Dec 1, 2026)"
     description: Self-hosted email marketing for your own server, with newsletters, automations, transactional email, a REST API and an MCP server.
+  - name: Scanify
+    url: https://scanify.to/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF Lifetime Pro with code BLACKFRIDAY ($29 to $14.50, one payment), or 50% OFF Pro monthly for 3 months with code BFPRO ($20 to $10/mo) (Nov 10 - Dec 9, 2026)"
+    description: Checks a link, file, QR code or IP before you open it, with 95+ antivirus engines, domain age, redirects and a sandbox screenshot of the page.
