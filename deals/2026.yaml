@@ -100,3 +100,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF monthly (€7 to €4.90) and yearly (€60 to €42) plans for as long as you stay subscribed, with code BLACKFRIDAY2026, new subscriptions only (until Dec 2, 2026)"
     description: Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux.
+  - name: Nuelink
+    url: https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=tushargugnani_awesome_black_friday_for_developers
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF your first year on yearly plans (6 months free, Standard $144 for the year) or 25% OFF your first 3 monthly payments ($24 to $18), with code BFCM26 (Nov 6 - Nov 30, 2026)"
+    description: "Agentic social media scheduling for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it, with API and MCP access on every plan."
