@@ -110,3 +110,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF the lifetime license with code BF2026 (Nov 13 - Dec 2, 2026)"
     description: Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. Works with Zoom, Meet, Teams, Loom and OBS.
+  - name: VantagePoint
+    url: https://vantagepoint.enciphers.com
+    category: courses
+    offer: "Black Friday 2026: 70% OFF all hacking labs & certifications, no code needed (Nov 2 - Dec 15, 2026)"
+    description: Hands-on cybersecurity labs based on real-world vulnerabilities, with human feedback on every submission.
