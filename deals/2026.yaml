@@ -105,3 +105,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF your first year on yearly plans (6 months free, Standard $144 for the year) or 25% OFF your first 3 monthly payments ($24 to $18), with code BFCM26 (Nov 6 - Nov 30, 2026)"
     description: "Agentic social media scheduling for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it, with API and MCP access on every plan."
+  - name: Safe Screen Share
+    url: https://www.safescreenshare.com
+    category: developer-tools
+    offer: "Black Friday 2026: 40% OFF the lifetime license with code BF2026 (Nov 13 - Dec 2, 2026)"
+    description: Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. Works with Zoom, Meet, Teams, Loom and OBS.
