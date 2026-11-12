@@ -115,3 +115,8 @@ deals:
     category: courses
     offer: "Black Friday 2026: 70% OFF all hacking labs & certifications, no code needed (Nov 2 - Dec 15, 2026)"
     description: Hands-on cybersecurity labs based on real-world vulnerabilities, with human feedback on every submission.
+  - name: LS Graphics
+    url: https://www.ls.graphics/
+    category: design
+    offer: "Black Friday 2026: 50% OFF all bundles and monthly/annual plans, no code needed (Nov 6 - Dec 1, 2026). One product or subscription per email. Subscription discount applies to the first billing period only; renewals at regular price. Existing subscribers must use a different email at checkout."
+    description: Browser-based editor with Static Mockups, Live Mockups and 3D Studio, plus 100+ branding and device mockup bundles with downloadable PSD, Figma and Sketch files for editing in your preferred software.
