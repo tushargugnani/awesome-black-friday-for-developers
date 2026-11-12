@@ -50,6 +50,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=tushargugnani_awesome_black_friday_for_developers) | Agentic social media scheduling for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it, with API and MCP access on every plan. | Black Friday 2026: 50% OFF your first year on yearly plans (6 months free, Standard $144 for the year) or 25% OFF your first 3 monthly payments ($24 to $18), with code BFCM26 (Nov 6 - Nov 30, 2026) |
 | [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. Works with Zoom, Meet, Teams, Loom and OBS. | Black Friday 2026: 40% OFF the lifetime license with code BF2026 (Nov 13 - Dec 2, 2026) |
 | [VantagePoint](https://vantagepoint.enciphers.com) | Hands-on cybersecurity labs based on real-world vulnerabilities, with human feedback on every submission. | Black Friday 2026: 70% OFF all hacking labs & certifications, no code needed (Nov 2 - Dec 15, 2026) |
+| [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma and Sketch source files. | Black Friday 2026: 50% OFF all bundles and plans, no code needed (Nov 6 - Dec 1, 2026) |
 
 ## Submit a deal
 
