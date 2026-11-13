@@ -125,3 +125,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF the first month or first year of any paid plan, no code needed (until Dec 1, 2026)"
     description: Live CVE, CISA KEV and exploit intelligence with a REST API, MCP server, SBOM scans with SARIF and a free tier.
+  - name: OffSeq Breach
+    url: https://breach.offseq.com/en#pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF the first billing period of any paid plan with code BLACK (until Dec 2, 2026)"
+    description: Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram, with API, Slack and webhook alerts.
