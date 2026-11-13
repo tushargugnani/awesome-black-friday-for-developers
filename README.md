@@ -51,6 +51,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that auto-blurs emails, API keys and customer data before you screen share or record. Works with Zoom, Meet, Teams, Loom and OBS. | Black Friday 2026: 40% OFF the lifetime license with code BF2026 (Nov 13 - Dec 2, 2026) |
 | [VantagePoint](https://vantagepoint.enciphers.com) | Hands-on cybersecurity labs based on real-world vulnerabilities, with human feedback on every submission. | Black Friday 2026: 70% OFF all hacking labs & certifications, no code needed (Nov 2 - Dec 15, 2026) |
 | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma and Sketch source files. | Black Friday 2026: 50% OFF all bundles and plans, no code needed (Nov 6 - Dec 1, 2026) |
+| [OffSeq Breach](https://breach.offseq.com/en#pricing) | Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram, with API, Slack and webhook alerts. | Black Friday 2026: 50% OFF the first billing period of any paid plan with code BLACK (until Dec 2, 2026) |
 
 ## Submit a deal
 
