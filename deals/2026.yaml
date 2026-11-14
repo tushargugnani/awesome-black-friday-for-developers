@@ -130,3 +130,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF the first billing period of any paid plan with code BLACK (until Dec 2, 2026)"
     description: Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram, with API, Slack and webhook alerts.
+  - name: GetYouTubeTranscript
+    url: https://getyoutubetranscript.com/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: lifetime access for $149 one-time with 3,000 credits/month, first 100 buyers, or 30% OFF the first year of the Annual plan ($54 to $37.80) with code BF26GYT (until Dec 10, 2026)"
+    description: YouTube transcript REST API and MCP server for AI agents, plus a Chrome extension and web tool, with timestamps and SRT/VTT/JSON export.
