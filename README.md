@@ -54,6 +54,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [OffSeq Threat Radar](https://radar.offseq.com/pricing) | Live CVE, CISA KEV and exploit intelligence with a REST API, MCP server, SBOM scans with SARIF and a free tier. | Black Friday 2026: 50% OFF the first month or first year of any paid plan, no code needed (until Dec 1, 2026) |
 | [OffSeq Breach](https://breach.offseq.com/en#pricing) | Leaked-credential monitoring for your company domains across breach datasets, forums and Telegram, with API, Slack and webhook alerts. | Black Friday 2026: 50% OFF the first billing period of any paid plan with code BLACK (until Dec 2, 2026) |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com/pricing) | YouTube transcript REST API and MCP server for AI agents, plus a Chrome extension and web tool, with timestamps and SRT/VTT/JSON export. | Black Friday 2026: lifetime access for $149 one-time with 3,000 credits/month, first 100 buyers, or 30% OFF the first year of the Annual plan ($54 to $37.80) with code BF26GYT (until Dec 10, 2026) |
+| [BetterStage](https://betterstage.app/pricing?utm_source=tushar-bf&utm_campaign=bf2026) | Native macOS window and workspace manager with named Stages across all monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. | Black Friday 2026: 20% OFF lifetime Pro with code BLACKFRIDAY20, one-time purchase ($19.99 to $15.99 for 1 Mac, $39.99 to $31.99 for 3 Macs, $49.99 to $39.99 for 5 Macs) (Nov 23 - Nov 30, 2026) |
 
 ## Submit a deal
 
