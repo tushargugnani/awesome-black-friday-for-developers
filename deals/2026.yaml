@@ -140,3 +140,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 20% OFF lifetime Pro with code BLACKFRIDAY20, one-time purchase ($19.99 to $15.99 for 1 Mac, $39.99 to $31.99 for 3 Macs, $49.99 to $39.99 for 5 Macs) (Nov 23 - Nov 30, 2026)"
     description: Native macOS window and workspace manager with named Stages across all monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces.
+  - name: SaaSykit
+    url: https://saasykit.com?aff=1k6yr
+    category: laravel-php
+    offer: "Black Friday 2026: 50% OFF all versions, applied automatically or with code BLACKFRIDAY26, one-time purchase (SaaSykit $239 to $119.50, Tenancy $269 to $134.50, Complete $299 to $149.50) (Nov 14 - Dec 6, 2026)"
+    description: Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics.
