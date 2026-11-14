@@ -46,9 +46,25 @@ def main() -> int:
     errors = []
     deals = []
     for year in ("2025", "2026"):
-        deals.extend(parse(ROOT / "deals" / f"{year}.yaml"))
+        year_deals = parse(ROOT / "deals" / f"{year}.yaml")
+        deals.extend(year_deals)
 
-    names, urls = set(), set()
+        # Duplicate name/URL checks are per year file, so last year's
+        # archive does not block the same product from returning.
+        names, urls = set(), set()
+        for d in year_deals:
+            loc = f"{d.get('_file')}: {d.get('name', '?')}"
+            name_key = d.get("name", "").strip().lower()
+            if name_key in names:
+                errors.append(f"{loc}: duplicate name")
+            names.add(name_key)
+            url_key = d.get("url", "").strip().lower()
+            if url_key:
+                if url_key in urls:
+                    errors.append(f"{loc}: duplicate url")
+                urls.add(url_key)
+            # same vendor may list more than one product
+
     for d in deals:
         loc = f"{d.get('_file')}: {d.get('name', '?')}"
         for key in REQUIRED:
@@ -64,11 +80,6 @@ def main() -> int:
             errors.append(f"{loc}: description too long ({len(desc)} chars)")
         if SLOP.search(" ".join(d.get(k, "") for k in REQUIRED)):
             errors.append(f"{loc}: looks like slop copy")
-        name_key = d.get("name", "").strip().lower()
-        if name_key in names:
-            errors.append(f"{loc}: duplicate name")
-        names.add(name_key)
-        # same vendor may list more than one product
 
     if errors:
         print("validation failed:")
