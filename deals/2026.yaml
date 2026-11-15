@@ -150,3 +150,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 47% OFF Lifetime Pro with code BLACKFRIDAY50, one-time purchase ($14.99 to $7.99, redeem in the Mac App Store app) (until Dec 1, 2026)"
     description: Native macOS free-form canvas for daily tasks and project planning, with markdown cards, checklists, a marker, iCloud sync and PDF export.
+  - name: Recut
+    url: https://getrecut.com/
+    category: design
+    offer: "Black Friday 2026: $50 OFF, one-time purchase ($149 to $99), applied automatically (Nov 12 - Dec 4, 2026)"
+    description: Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux
