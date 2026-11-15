@@ -145,3 +145,8 @@ deals:
     category: laravel-php
     offer: "Black Friday 2026: 50% OFF all versions, applied automatically or with code BLACKFRIDAY26, one-time purchase (SaaSykit $239 to $119.50, Tenancy $269 to $134.50, Complete $299 to $149.50) (Nov 14 - Dec 6, 2026)"
     description: Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics.
+  - name: HiAPI
+    url: https://hiapi.ai/en/promotions/black-friday-2026?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=tushar
+    category: developer-tools
+    offer: "Black Friday 2026: up to 30% extra API credit, no code needed. Up to 10% bonus on single top-ups from $50, up to 20% back on image, video and audio spend, so a $500 top-up can become up to $650. Plus 10M free DeepSeek V4.1 Flash tokens a day for accounts with a paid top-up (Nov 24 - Dec 1, 2026)"
+    description: Pay-as-you-go API with one key for image, video, audio and LLM models such as GPT Image, Seedance, Kling, Veo, DeepSeek and Claude.
