@@ -59,6 +59,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Forma](https://useforma.app) | Native macOS free-form canvas for daily tasks and project planning, with markdown cards, checklists, a marker, iCloud sync and PDF export. | Black Friday 2026: 47% OFF Lifetime Pro with code BLACKFRIDAY50, one-time purchase ($14.99 to $7.99, redeem in the Mac App Store app) (until Dec 1, 2026) |
 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | Black Friday 2026: $50 OFF, one-time purchase ($149 to $99), applied automatically (Nov 12 - Dec 4, 2026) |
 | [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity and red team courses, certifications, bundles and labs. | Black Friday 2026: up to 90% OFF course bundles, courses from $5, up to $800 off the All Access plan (Nov 12 - Dec 1, 2026) |
+| [Zipic](https://zipic.app/black-friday?utm_source=gh-tushargugnani&utm_medium=github&utm_campaign=bf2026) | Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL, with a CLI on Mac that prints one JSON line per file. | Black Friday 2026: 33% OFF one-time licenses with code BF2026, Solo $19.99 to $13.39, Personal $29.99 to $20.09, Team $129.99 to $87.09 (Nov 20 - Dec 6, 2026) |
 
 ## Submit a deal
 
