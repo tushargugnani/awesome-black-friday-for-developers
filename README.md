@@ -192,7 +192,6 @@ These offers ran last Black Friday. Codes are probably expired. Useful as a prev
 | [Test with Go](https://testwithgo.com/) | Learn how to test real, complex software written in Go | 50% OFF |
 | [Learn Hotwire](https://learnhotwire.com) | Learn how to build modern apps with Rails, iOS and Android with the most comprehensive tutorial on Hotwire. | 16% off |
 | [Phlex on Rails](https://beautifulruby.com/phlex) | Video Course Build amazing user interfaces in Rails with Phlex 💪 | 20% Off Phlex on Rails video course & content at check-out |
-| [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity training with labs and certifications across Red Team, Blue Team, cloud and AI security ([all offers](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)) | 💸 **Up to 90% OFF** course bundles · certifications from $5 · **Up to $800 off** on All Access plan . Infinity Yearly $49 with 2 free certifications · code `INFINITY49` (yearly) / `INFINITY5` (monthly)
 
 ### Books
 
