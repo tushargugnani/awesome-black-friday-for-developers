@@ -192,6 +192,7 @@ These offers ran last Black Friday. Codes are probably expired. Useful as a prev
 | [Test with Go](https://testwithgo.com/) | Learn how to test real, complex software written in Go | 50% OFF |
 | [Learn Hotwire](https://learnhotwire.com) | Learn how to build modern apps with Rails, iOS and Android with the most comprehensive tutorial on Hotwire. | 16% off |
 | [Phlex on Rails](https://beautifulruby.com/phlex) | Video Course Build amazing user interfaces in Rails with Phlex 💪 | 20% Off Phlex on Rails video course & content at check-out |
+| 💰 | [CyberWarFare Labs](https://cyberwarfare.live/) <br> A cybersecurity training platform offering hands-on learning, practical labs, professional certifications, and specialized training across Red Team, Blue Team, Cloud Security, Penetration Testing, and Advanced Evasion. | 🔥 **Up to 86% OFF on Cybersecurity Training!** <br><br> 🏆 **Cybersecurity All Rounder Edition:** $99 (84% OFF) <br> 🔴 **Red Team Pro Edition:** $199 (76% OFF) <br> ☁️ **Offensive Cloud Edition:** $399 (80% OFF) <br> 🎯 **Advanced Penetration Tester Edition:** $49 (86% OFF) <br> 🛡️ **Blue Team Hunter Edition:** $99 (78% OFF) <br> ⚡ **Advanced Evasion Edition:** $149 (86% OFF) <br> 🚀 **Cybersecurity All-in-One Access:** $999 (81% OFF) <br> 👑 **CWL Exclusive Membership:** $1,499 (71% OFF) <br><br> **No coupon code required!** <br> [Explore All Deals](https://cyberwarfare.live/) |
 
 ### Books
 
