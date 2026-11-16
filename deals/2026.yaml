@@ -165,3 +165,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 33% OFF one-time licenses with code BF2026, Solo $19.99 to $13.39, Personal $29.99 to $20.09, Team $129.99 to $87.09 (Nov 20 - Dec 6, 2026)"
     description: Compresses, converts and resizes images locally on Mac and Windows, including AVIF, WebP and JPEG XL, with a CLI on Mac that prints one JSON line per file.
+  - name: Orchard
+    url: https://orchard.5km.tech/black-friday?utm_source=gh-tushargugnani&utm_medium=github&utm_campaign=bf2026
+    category: developer-tools
+    offer: "Black Friday 2026: 33% OFF with code BF2026, Lifetime $39.99 to $26.79 and the first year of Annual $24.99 to $16.74 (Nov 20 - Dec 6, 2026)"
+    description: Native Mac app that lets AI assistants use Mail, Calendar, Notes, Reminders and 7 more Apple apps locally via MCP, Agent Skills or a CLI.
