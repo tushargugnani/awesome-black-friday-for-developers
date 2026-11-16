@@ -58,6 +58,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [SaaSykit](https://saasykit.com?aff=1k6yr) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel, multi-tenancy and SaaS metrics. | Black Friday 2026: 50% OFF all versions, applied automatically or with code BLACKFRIDAY26, one-time purchase (SaaSykit $239 to $119.50, Tenancy $269 to $134.50, Complete $299 to $149.50) (Nov 14 - Dec 6, 2026) |
 | [Forma](https://useforma.app) | Native macOS free-form canvas for daily tasks and project planning, with markdown cards, checklists, a marker, iCloud sync and PDF export. | Black Friday 2026: 47% OFF Lifetime Pro with code BLACKFRIDAY50, one-time purchase ($14.99 to $7.99, redeem in the Mac App Store app) (until Dec 1, 2026) |
 | [Recut](https://getrecut.com/) | Skip the tedious parts of editing videos and podcasts. Recut removes silence automatically and exports to Premiere, Resolve and Final Cut Pro. Mac/Windows/Linux | Black Friday 2026: $50 OFF, one-time purchase ($149 to $99), applied automatically (Nov 12 - Dec 4, 2026) |
+| [CyberWarFare Labs](https://cyberwarfare.live/) | Hands-on cybersecurity and red team courses, certifications, bundles and labs. | Black Friday 2026: up to 90% OFF course bundles, courses from $5, up to $800 off the All Access plan (Nov 12 - Dec 1, 2026) |
 
 ## Submit a deal
 
