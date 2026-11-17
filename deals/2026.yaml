@@ -180,3 +180,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF the first year of every annual plan on the web, App Store and Google Play, no code needed, new customers only, Pro $99.99 to $49.99 per user (Nov 23 - Nov 30, 2026)"
     description: Time tracking with a REST API, a CLI and an MCP server for Claude and ChatGPT, plus apps for iPhone, Android and the web.
+  - name: Refine
+    url: https://refine.sh
+    category: developer-tools
+    offer: 35% OFF one-time license, no code needed, applied at checkout (Nov 15 - Nov 30, 2026)
+    description: Offline AI writing assistant for Mac with grammar, autocomplete, rewrites and translation across your apps, plus Neovim and Sublime Text plugins.
