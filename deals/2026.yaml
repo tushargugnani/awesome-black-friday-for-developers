@@ -175,3 +175,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 50% OFF on the Mac App Store, Lifetime $39.99 to $19.99 with no code, Annual $9.99 for the first year with offer code BF2026YEAR (Nov 20 - Dec 6, 2026)"
     description: Native Mac client for Keygen.sh to manage products, policies, licenses, users and machines in one window.
+  - name: Timesheet
+    url: https://timesheet.io/en/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF the first year of every annual plan on the web, App Store and Google Play, no code needed, new customers only, Pro $99.99 to $49.99 per user (Nov 23 - Nov 30, 2026)"
+    description: Time tracking with a REST API, a CLI and an MCP server for Claude and ChatGPT, plus apps for iPhone, Android and the web.
