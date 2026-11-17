@@ -64,6 +64,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-tushargugnani&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh to manage products, policies, licenses, users and machines in one window. | Black Friday 2026: 50% OFF on the Mac App Store, Lifetime $39.99 to $19.99 with no code, Annual $9.99 for the first year with offer code BF2026YEAR (Nov 20 - Dec 6, 2026) |
 | [Timesheet](https://timesheet.io/en/pricing) | Time tracking with a REST API, a CLI and an MCP server for Claude and ChatGPT, plus apps for iPhone, Android and the web. | Black Friday 2026: 50% OFF the first year of every annual plan on the web, App Store and Google Play, no code needed, new customers only, Pro $99.99 to $49.99 per user (Nov 23 - Nov 30, 2026) |
 | [Refine](https://refine.sh) | Offline AI writing assistant for Mac with grammar, autocomplete, rewrites and translation across your apps, plus Neovim and Sublime Text plugins. | 35% OFF one-time license, no code needed, applied at checkout (Nov 15 - Nov 30, 2026) |
+
 ## Submit a deal
 
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
