@@ -190,3 +190,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: double credits on every plan, applied automatically at checkout, no code. New monthly plans get double credits in month one, new annual plans for the first 3 months. The $59 Growth pack is 25,000 credits plus 25,000 free (Nov 19 - Dec 1, 2026)"
     description: Public social data API and MCP server for TikTok, Instagram, YouTube, X, Reddit and LinkedIn, with 100 free credits and no card.
+  - name: data-peek
+    url: https://www.datapeek.dev/pricing?utm_source=awesome-black-friday-for-developers
+    category: developer-tools
+    offer: 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026)
+    description: Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use.
