@@ -65,6 +65,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Timesheet](https://timesheet.io/en/pricing) | Time tracking with a REST API, a CLI and an MCP server for Claude and ChatGPT, plus apps for iPhone, Android and the web. | Black Friday 2026: 50% OFF the first year of every annual plan on the web, App Store and Google Play, no code needed, new customers only, Pro $99.99 to $49.99 per user (Nov 23 - Nov 30, 2026) |
 | [Refine](https://refine.sh) | Offline AI writing assistant for Mac with grammar, autocomplete, rewrites and translation across your apps, plus Neovim and Sublime Text plugins. | 35% OFF one-time license, no code needed, applied at checkout (Nov 15 - Nov 30, 2026) |
 | [Social Fetch](https://www.socialfetch.dev/black-friday) | Public social data API and MCP server for TikTok, Instagram, YouTube, X, Reddit and LinkedIn, with 100 free credits and no card. | Black Friday 2026: double credits on every plan, applied automatically at checkout, no code. New monthly plans get double credits in month one, new annual plans for the first 3 months. The $59 Growth pack is 25,000 credits plus 25,000 free (Nov 19 - Dec 1, 2026) |
+| [data-peek](https://www.datapeek.dev/pricing?utm_source=awesome-black-friday-for-developers) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use. | 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026) |
 
 ## Submit a deal
 
