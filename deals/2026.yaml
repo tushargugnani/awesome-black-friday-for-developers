@@ -195,3 +195,8 @@ deals:
     category: developer-tools
     offer: 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026)
     description: Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use.
+  - name: BizPeel
+    url: https://bizpeel.com/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF first month across all plans (Starter $14.95, Pro $29.95, Business $49.95, full MCP quota included) + 20% OFF first year stacked on 15% annual savings, auto-applied at checkout, no code needed (Nov 19 - Nov 30, 2026)"
+    description: Verified revenue, traffic sources, SEO & ad breakdowns for 700+ real startups — browsable on web and queryable in Claude Code, Codex & Cursor via 48 live MCP tools.
