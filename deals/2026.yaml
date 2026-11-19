@@ -195,3 +195,8 @@ deals:
     category: developer-tools
     offer: 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026)
     description: Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use.
+  - name: Skillry
+    url: https://skillry.dev/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF Pro ($9.99 first month, was $19.90; or $79 first year, was $158) + Founding Lifetime $169 one-time (was $249, save $80), auto-applied at checkout, no code needed; renewals bill at standard price (Nov 19 - Nov 30, 2026)"
+    description: Curated creative Agent Skills for Claude Code, Codex & Cursor — generate editable slides, websites, images & launch videos from one prompt via MCP, CLI, or web.
