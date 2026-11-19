@@ -195,3 +195,23 @@ deals:
     category: developer-tools
     offer: 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026)
     description: Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use.
+  - name: Exploit Pack
+    url: https://www.exploitpack.com/products/exploit-pack
+    category: developer-tools
+    offer: "Black Friday 2026: 20% OFF (€1,200 to €960) and Lifetime licence with code LIFETIME (until Nov 30, 2026)"
+    description: AI-assisted exploit-development framework with 46,000+ exploits, zero-days and debugger integration.
+  - name: Control Pack
+    url: https://www.exploitpack.com/products/control-pack
+    category: developer-tools
+    offer: "Black Friday 2026: 20% OFF (€1,200 to €960) and Lifetime licence with code LIFETIME (until Nov 30, 2026)"
+    description: Cross-platform C2 for stealthy post-exploitation and AI-assisted red-team operations.
+  - name: Kernel Pack
+    url: https://www.exploitpack.com/products/kernel-pack
+    category: developer-tools
+    offer: "Black Friday 2026: 20% OFF (€1,200 to €960) and Lifetime licence with code LIFETIME (until Nov 30, 2026)"
+    description: Kernel exploitation and C2 with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling.
+  - name: Ultimate Pack + AI
+    url: https://www.exploitpack.com/products/ultimate-pack-discount
+    category: developer-tools
+    offer: "Black Friday 2026 bundle: €4,000, no coupon (until Nov 30, 2026)"
+    description: All-in-one offensive-security suite combining exploitation, C2 and kernel operations with integrated AI.
