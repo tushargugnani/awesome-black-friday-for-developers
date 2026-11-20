@@ -68,6 +68,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [data-peek](https://www.datapeek.dev/pricing?utm_source=awesome-black-friday-for-developers) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use. | 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026) |
 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | Black Friday 2026: 50% OFF lifetime, $19.99 to $9.99, no code needed (Nov 18 - Dec 4, 2026) |
 | [Wins](https://wins.cool/pricing) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows. | Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99. |
+| [Site Commander MCP](https://bundlewp.com/black-friday/) | WordPress plugin that connects your site to Claude over MCP, so you manage posts, WooCommerce products and orders, SEO and plugins by chat. | Black Friday 2026: 70% OFF one-time price with code SAVE70 ($29 to $8.70, lifetime access) |
 
 ## Submit a deal
 
