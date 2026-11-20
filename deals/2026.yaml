@@ -205,3 +205,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99."
     description: Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows.
+  - name: Appfigures
+    url: "https://appfigures.com/account/upgrade?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=blackfridaydeals-dev&p=BF2650"
+    category: mobile
+    offer: "Black Friday 2026: 50% OFF monthly or annual plans for 12 months with code BF2650 (up to $200/mo off, Nov 23 - Nov 30, 2026)"
+    description: "ASO and App Intelligence for the App Store and Google Play: competitor keywords, custom product pages, and download and revenue estimates."
