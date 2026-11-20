@@ -205,3 +205,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99."
     description: Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows.
+  - name: FortuneTellerOnline
+    url: https://www.fortunetelleronline.app/#pricing
+    category: design
+    offer: "Black Friday 2026: 90% OFF all plans + 10x bonus credits, auto-applied at checkout, no code needed (Nov 20 - Dec 31, 2026)"
+    description: Interactive tarot reading web app. Draw from a full 78-card Rider-Waite deck for love, career and yes-or-no questions.
