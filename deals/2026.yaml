@@ -200,3 +200,8 @@ deals:
     category: design
     offer: "Black Friday 2026: 50% OFF lifetime, $19.99 to $9.99, no code needed (Nov 18 - Dec 4, 2026)"
     description: QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark.
+  - name: Wins
+    url: https://wins.cool/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99."
+    description: Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows.
