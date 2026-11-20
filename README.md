@@ -69,10 +69,12 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | Black Friday 2026: 50% OFF lifetime, $19.99 to $9.99, no code needed (Nov 18 - Dec 4, 2026) |
 | [Wins](https://wins.cool/pricing) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows. | Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99. |
 | [Site Commander MCP](https://bundlewp.com/product/site-commander-mcp/) | WordPress plugin that connects your site to Claude over MCP, so you manage posts, WooCommerce products and orders, SEO and plugins by chat. | Black Friday 2026: 70% OFF one-time price with code SAVE70 ($29 to $8.70, lifetime access) |
+
 ## Submit a deal
 
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
 2. Add your product to [`deals/2026.yaml`](deals/2026.yaml) (one product per PR).
+
 3. Run `python3 scripts/validate.py && python3 scripts/build_readme.py`.
 4. Open the pull request. We merge quality. We close slop.
 
