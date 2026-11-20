@@ -68,6 +68,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [data-peek](https://www.datapeek.dev/pricing?utm_source=awesome-black-friday-for-developers) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux, free for personal use. | 40% OFF Pro yearly ($29 to $17.40), no code needed, applied at checkout (Nov 26 - Dec 1, 2026) |
 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac. Codes are made on your device and never expire. Export PNG, JPG, PDF or SVG with no watermark. | Black Friday 2026: 50% OFF lifetime, $19.99 to $9.99, no code needed (Nov 18 - Dec 4, 2026) |
 | [Wins](https://wins.cool/pricing) | Native macOS window manager with window snapping, Dock previews, and keyboard shortcuts for switching between windows. | Black Friday 2026: 40% OFF new licenses and eligible update renewals with code BF_26 (Nov 11 - Dec 1, 2026). Single $19.99 to $11.99, Pro $39.99 to $23.99, X $49.99 to $29.99. |
+| [SciFig](https://scifig.ai/black-friday) | Browser-based editor for creating editable scientific figures, charts and diagrams for research and presentations. | Black Friday 2026: extra 20% off the first billing period of new subscriptions, eligible upgrades and credit packs. Starter annual is $80 for year one, then renews at $100/year. Automatic, no code (Oct 22–Dec 1, 2026, 11:59 p.m. PT). |
 
 ## Submit a deal
 
