@@ -79,7 +79,6 @@ Star the repo if you want a reminder when 2026 deals start landing.
 4. Open the pull request. We merge quality. We close slop.
 
 If you would rather skip GitHub, [submit on blackfridaydeals.dev](https://blackfridaydeals.dev).
-
 ## 2025 archive
 
 These offers ran last Black Friday. Codes are probably expired. Useful as a preview of who shows up and how hard they discount.
