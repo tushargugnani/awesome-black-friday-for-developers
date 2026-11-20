@@ -210,3 +210,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF every Lifetime license (Standard $59 to $41.30, Premium $119 to $83.30, Teams $159 to $111.30) and 30% OFF the first payment of an Enconvo Cloud plan, applied at checkout, no code needed (Nov 20 - Dec 7, 2026)"
     description: Native AI assistant and agent for Mac that automates tasks across your apps, dictates, searches your documents, and runs cloud AI or local models.
+  - name: Layerbase
+    url: https://layerbase.com/
+    category: hosting
+    offer: "Black Friday 2026: 50% OFF your first month. [Solo for $2.50](https://layerbase.com/pricing) with code BFSOLO26 (then $5/mo); [Pro for $7.50](https://layerbase.com/pricing) with code BFPRO26 (then $15/mo). First 50 redemptions per code."
+    description: Flat-priced managed databases: 19 engines including Postgres, MySQL, Redis and ClickHouse from one account, with no usage or egress meters.
