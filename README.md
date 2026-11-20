@@ -74,11 +74,11 @@ Star the repo if you want a reminder when 2026 deals start landing.
 
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
 2. Add your product to [`deals/2026.yaml`](deals/2026.yaml) (one product per PR).
-
 3. Run `python3 scripts/validate.py && python3 scripts/build_readme.py`.
 4. Open the pull request. We merge quality. We close slop.
 
 If you would rather skip GitHub, [submit on blackfridaydeals.dev](https://blackfridaydeals.dev).
+
 ## 2025 archive
 
 These offers ran last Black Friday. Codes are probably expired. Useful as a preview of who shows up and how hard they discount.
