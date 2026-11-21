@@ -215,3 +215,8 @@ deals:
     category: hosting
     offer: "Black Friday 2026: 50% OFF your first month. [Solo for $2.50](https://layerbase.com/pricing) with code BFSOLO26 (then $5/mo); [Pro for $7.50](https://layerbase.com/pricing) with code BFPRO26 (then $15/mo). First 50 redemptions per code."
     description: Flat-priced managed databases: 19 engines including Postgres, MySQL, Redis and ClickHouse from one account, with no usage or egress meters.
+  - name: BatchMark
+    url: https://batchmark.dispatchcat.com/holiday-sale/
+    category: design
+    offer: "Black Friday 2026: 50% OFF Lifetime ($79.99 to $39.99), no code needed, auto-applied (Nov 15 - Dec 25, 2026)"
+    description: iPhone and iPad photo app that turns photo sets into finished stories: batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device.
