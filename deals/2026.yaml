@@ -19,7 +19,7 @@ deals:
     url: https://wirelessoperator.io
     category: courses
     offer: "Black Friday 2026: 67% OFF ($599 to $197), no code needed (Nov 10 - Dec 1, 2026)"
-    description: "Hands-on Wi-Fi pentesting course from TheXero Training Academy: 802.11 frames, WPA3, enterprise Wi-Fi, rogue APs, wireless pivots and fuzzing, with a simulated lab and live coaching."
+    description: "Wi-Fi pentesting course from TheXero Training Academy covering 802.11, WPA3, enterprise Wi-Fi, rogue APs, pivots and fuzzing, with a simulated lab and live coaching."
   - name: SmoothCapture
     url: https://www.smoothcapture.app/pricing
     category: design
