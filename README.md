@@ -73,6 +73,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Layerbase](https://layerbase.com/) | Flat-priced managed databases: 19 engines including Postgres, MySQL, Redis and ClickHouse from one account, with no usage or egress meters. | Black Friday 2026: 50% OFF your first month. [Solo for $2.50](https://layerbase.com/pricing) with code BFSOLO26 (then $5/mo); [Pro for $7.50](https://layerbase.com/pricing) with code BFPRO26 (then $15/mo). First 50 redemptions per code. |
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone and iPad photo app that turns photo sets into finished stories: batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device. | Black Friday 2026: 50% OFF Lifetime ($79.99 to $39.99), no code needed, auto-applied (Nov 15 - Dec 25, 2026) |
 | [Outlier](https://outlier.host/?ref=tushargugnani) | Mac app that runs open AI models on your own Mac, offline. Free to start; with Pro it can read your codebase, edit files, run your tests and search the web. | Black Friday sale: $16.99 once through December 2. Then $39. |
+| [Clipboard AI](https://clipboardai.app/black-friday) | Remembers everything you copy on iPhone, iPad and Mac. Search your clipboard history and paste from the iPhone keyboard or with Cmd+Shift+V on Mac. | Black Friday 2026: 30% OFF Lifetime Pro ($34.99 to $24.99, pay once) with code BLACKFRIDAY, applied automatically from the link (Nov 23 - Dec 1, 2026) |
 
 ## Submit a deal
 
