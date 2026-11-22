@@ -230,3 +230,8 @@ deals:
     category: developer-tools
     offer: "Black Friday sale: $16.99 once through December 2. Then $39."
     description: Mac app that runs open AI models on your own Mac, offline. Free to start; with Pro it can read your codebase, edit files, run your tests and search the web.
+  - name: Clipboard AI
+    url: https://clipboardai.app/black-friday
+    category: mobile
+    offer: "Black Friday 2026: 30% OFF Lifetime Pro ($34.99 to $24.99, pay once) with code BLACKFRIDAY, applied automatically from the link (Nov 23 - Dec 1, 2026)"
+    description: Remembers everything you copy on iPhone, iPad and Mac. Search your clipboard history and paste from the iPhone keyboard or with Cmd+Shift+V on Mac.
