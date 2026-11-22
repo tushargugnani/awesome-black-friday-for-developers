@@ -15,6 +15,11 @@ deals:
     category: courses
     offer: "Black Friday 2026: 20% OFF all plans forever, including lifetime, with code BLKFRI20 (Nov 1 - Dec 5, 2026)"
     description: Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training.
+  - name: Wireless Operator
+    url: https://wirelessoperator.io
+    category: courses
+    offer: "Black Friday 2026: 67% OFF ($599 to $197), no code needed (Nov 10 - Dec 1, 2026)"
+    description: "Wi-Fi pentesting course from TheXero Training Academy covering 802.11, WPA3, enterprise Wi-Fi, rogue APs, pivots and fuzzing, with a simulated lab and live coaching."
   - name: SmoothCapture
     url: https://www.smoothcapture.app/pricing
     category: design
