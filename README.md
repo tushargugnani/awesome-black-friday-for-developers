@@ -114,6 +114,8 @@ These offers ran last Black Friday. Codes are probably expired. Useful as a prev
 | [MacWhisper](https://gumroad.com/a/533265683/ivpqk) | Quickly and easily transcribe audio files into text with OpenAI's state-of-the-art transcription technology Whisper. | 25% OFF using BFF2025 |
 | [Poedit](https://poedit.net) | Developer-friendly translation editor with JSON & front-end formats support, plus automatic pre-translation via DeepL | 30% off with coupon BLACKFRIDAY25 |
 | [Anything](https://www.createanything.com/?via=tushar) | Anything is your AI agent for turning ideas into apps. | - 50% all plans (monthly, yearly, credits) - Code: BFDEALSDEV50 - |
+| [**WrapPixel**](https://www.wrappixel.com) | Leading provider of premium web templates and admin dashboards, trusted by 500K+ developers worldwide. Templates available in Next.js, Tailwind CSS, React, Angular and more. | **Up to 95% OFF** on the All Access Pass or **50% OFF** on individual admin templates (Coupon: `BFCM`)
+
 
 ### Laravel & PHP
 
@@ -139,6 +141,7 @@ These offers ran last Black Friday. Codes are probably expired. Useful as a prev
 | [Laravel Shift](https://laravelshift.com/) | Laravel Shift - the automated way to upgrade Laravel applications. | $500 off on everything plan |
 | [Spike Billing](https://spike.opcodes.io?ref=blackfridaydealsdev) | Best billing portal for your Laravel app, supports Stripe and Paddle, and includes a credit management system! | 33% off both Single and Unlimited licenses! |
 | [Laravel Comments](https://laravel-comments.com/?utm_source=blackfridaydeals.dev) | A package for Laravel. | 30% OFF |
+
 
 ### Design Tools
 
@@ -168,6 +171,7 @@ These offers ran last Black Friday. Codes are probably expired. Useful as a prev
 | [RetroUI Pro](https://pro.retroui.dev/?linkId=lp_271605&sourceId=blackfridaydeals&tenantId=logging-studio) | Premium blocks and templates inspired by the Neo-Brutalism design system. | Use coupon \"BFRIDAY\" and get 50% off! |
 | [TailGrids](https://tailgrids.com/pricing) | 500+ Tailwind CSS UI Components for - Web App, Marketing, Dashboard, E-Commerce, and More | 30% Off using Coupon Code: BLFCM2025 |
 | [FlyonUI](https://flyonui.lemonsqueezy.com?aff=1k6yr) | Get access to 1000+ premium Tailwind CSS components, responsive pages, and themes crafted for professionals. | Discount: 30% Promo Code: BFCM30FY Limit: For the first 100 buyers only |
+| [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | 
 
 ### Courses
 
