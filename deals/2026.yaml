@@ -235,3 +235,8 @@ deals:
     category: mobile
     offer: "Black Friday 2026: 30% OFF Lifetime Pro ($34.99 to $24.99, pay once) with code BLACKFRIDAY, applied automatically from the link (Nov 23 - Dec 1, 2026)"
     description: Remembers everything you copy on iPhone, iPad and Mac. Search your clipboard history and paste from the iPhone keyboard or with Cmd+Shift+V on Mac.
+  - name: Voibe
+    url: https://www.getvoibe.com/pricing/
+    category: developer-tools
+    offer: "Black Friday 2026: 25% OFF every plan (Dictation and Work, monthly, annual and lifetime) with code BFCM26 until 30 Nov 2026. Monthly plans keep 25% off every month. Dictation lifetime $199 to $149.25, Work lifetime $399 to $299.25."
+    description: Private AI dictation and bot-free meeting notes for Mac and Windows.
