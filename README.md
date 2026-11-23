@@ -146,6 +146,7 @@ These offers ran last Black Friday. Codes are probably expired. Useful as a prev
 
 | Name | What it is | Offer |
 | --- | --- | --- |
+| [ETK Image Compressor Pro](https://shakster24.gumroad.com/l/fcnkut) | ETK Image Compressor Pro is a powerful offline image-processing toolkit featuring ETK+ compression, AI upscaling up to 4×, image repair, noise reduction, batch processing, metadata removal, and secure image transfer. | 66% off using code ETKBF66 — ~~$30~~ $10.20 (Lifetime License) |
 | [Untitled UI](https://store.untitledui.com?aff=1k6yr) | Untitled UI is the largest and best-selling Figma UI kit and design system in the world. | 30% OFF using DESIGNERUP |
 | [Frameblox](https://frameblox.com?aff=1k6yr) | Frameblox is the ultimate Framer UI kit, design system, and component library. | 50% off using code BLACKFRIDAY25 |
 | [Codebit](https://codebit.xyz/) | Create animations from code snippets, and export them as videos to share with your community. | 50% off on the 1-year Professional Plan ($99 instead of $199) by entering code BLACKFRIDAY25 |
