@@ -235,3 +235,8 @@ deals:
     category: mobile
     offer: "Black Friday 2026: 30% OFF Lifetime Pro ($34.99 to $24.99, pay once) with code BLACKFRIDAY, applied automatically from the link (Nov 23 - Dec 1, 2026)"
     description: Remembers everything you copy on iPhone, iPad and Mac. Search your clipboard history and paste from the iPhone keyboard or with Cmd+Shift+V on Mac.
+  - name: DiskMate
+    url: https://diskmate.app
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF Lifetime ($10 to $5), no code needed (Nov 20 - Dec 2, 2026)"
+    description: Native macOS disk space analyzer and cleaner to see what is eating your disk and clean it safely. Built with Swift for Apple Silicon: treemaps, duplicates and quick wins.
