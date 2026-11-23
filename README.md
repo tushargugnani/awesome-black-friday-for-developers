@@ -74,6 +74,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/) | iPhone and iPad photo app that turns photo sets into finished stories: batch watermark up to 100 photos, art frames, Color Walk cards and Photo Stories, all on-device. | Black Friday 2026: 50% OFF Lifetime ($79.99 to $39.99), no code needed, auto-applied (Nov 15 - Dec 25, 2026) |
 | [Outlier](https://outlier.host/?ref=tushargugnani) | Mac app that runs open AI models on your own Mac, offline. Free to start; with Pro it can read your codebase, edit files, run your tests and search the web. | Black Friday sale: $16.99 once through December 2. Then $39. |
 | [Clipboard AI](https://clipboardai.app/black-friday) | Remembers everything you copy on iPhone, iPad and Mac. Search your clipboard history and paste from the iPhone keyboard or with Cmd+Shift+V on Mac. | Black Friday 2026: 30% OFF Lifetime Pro ($34.99 to $24.99, pay once) with code BLACKFRIDAY, applied automatically from the link (Nov 23 - Dec 1, 2026) |
+| [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows. | Black Friday 2026: 25% OFF every plan (Dictation and Work, monthly, annual and lifetime) with code BFCM26 until 30 Nov 2026. Monthly plans keep 25% off every month. Dictation lifetime $199 to $149.25, Work lifetime $399 to $299.25. |
 
 ## Submit a deal
 
