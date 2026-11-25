@@ -78,6 +78,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [SocialAPIs](https://socialapis.io/pricing) | REST API for public Facebook and Instagram data. Pages, posts, Marketplace listings, Meta Ad Library ads and Instagram profiles as JSON, with a free plan of 200 calls a month. | Black Friday 2026: 30% OFF the first 3 months of monthly plans or 17% OFF the first year of yearly plans with code BLACKDATA30, first-time orders (Nov 24 - Dec 1, 2026) |
 | [Clappia](https://www.clappia.com/black-friday-offer) | AI-powered no-code platform to build unlimited web, Android & iOS business apps with workflows, offline sync, custom JavaScript and REST APIs. | Black Friday 2026: 50% OFF vs monthly pricing on annual plans (incl. the usual 25% annual discount) with code BLACKFRD, new customers (Nov 1 - Dec 31, 2026) |
 | [A1](https://www.a1.gallery/pricing) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours for each site. | Black Friday 2026: 33% OFF Pro yearly ($72 to $48 a year, kept while subscribed), no code needed (Nov 19 - Nov 30, 2026) |
+| [SiteData](https://sitedata.dev/black-friday) | Website traffic and SEO research, competitor ads and reverse AdSense lookup, with an MCP server for AI assistants. | 50% off annual plans and 30% off monthly plans. Discounted renewals while subscribed, auto-applied at Stripe checkout, no code needed. Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC). |
 
 ## Submit a deal
 

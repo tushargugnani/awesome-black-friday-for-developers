@@ -255,3 +255,8 @@ deals:
     category: design
     offer: "Black Friday 2026: 33% OFF Pro yearly ($72 to $48 a year, kept while subscribed), no code needed (Nov 19 - Nov 30, 2026)"
     description: Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours for each site.
+  - name: SiteData
+    url: https://sitedata.dev/black-friday
+    category: developer-tools
+    offer: "50% off annual plans and 30% off monthly plans. Discounted renewals while subscribed, auto-applied at Stripe checkout, no code needed. Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC)."
+    description: Website traffic and SEO research, competitor ads and reverse AdSense lookup, with an MCP server for AI assistants.
