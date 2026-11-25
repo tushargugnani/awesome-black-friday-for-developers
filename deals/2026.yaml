@@ -275,3 +275,8 @@ deals:
     category: ui-kits
     offer: "Black Friday 2026: 30% OFF every license, no code needed (until Nov 30, 2026)"
     description: The agent-ready layer for shadcn/ui.
+  - name: Spring Prompt
+    url: https://springprompt.com/plans
+    category: developer-tools
+    offer: "Black Friday 2026: 40% OFF the first 3 months of either plan with code BF2026, Basic US$29.40/month (was $49), Pro US$120/month (was $200) (until Dec 1, 2026)"
+    description: Tests the LLM prompts in your app on other models and better wordings, and shows when a cheaper model or a prompt fix would do the job, with the evidence.
