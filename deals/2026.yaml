@@ -266,7 +266,7 @@ deals:
     offer: "Black Friday 2026: 88% OFF the first 8 months on new Essential monthly orders, code BLACKFRIDAY2026 auto-applied, E10 US$2.88/month then US$24/month before tax (Nov 23 - Dec 12, 2026)"
     description: Employee scheduling on iPhone, iPad, Android and the web for planning shifts, managing time off and sharing schedules with staff.
   - name: Backpack for Laravel
-    url: https://backpackforlaravel.com/black-friday?utm_source=blackfridaydeals-dev&utm_campaign=bf2026
+    url: https://backpackforlaravel.com/black-friday?ref=blackfridaydeals.dev&utm_source=blackfridaydeals-dev&utm_campaign=bf2026
     category: laravel-php
     offer: "Black Friday 2026: 50% OFF the first year with code BF50FIRSTYEAR, or 30% OFF every renewal with code BF30FOREVER, on Silver and Gold yearly plans (Gold single project €199 to €99.50 first year), 50 uses per code (until Dec 1, 2026)"
     description: Open-core admin panel for Laravel, built on Blade and Bootstrap, for CRUDs, dashboards and back-offices that stay maintainable for years.
