@@ -285,3 +285,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 20% OFF the first year of annual plans — Basic $250 to $200, Business $500 to $400/seat, no code needed, applied automatically at checkout (Nov 25 - Nov 30, 2026)"
     description: Local screen and audio capture with searchable memory, reusable skills and workflows for Claude, Codex, Cursor and teams on macOS, Windows and Linux.
+  - name: FireCut
+    url: https://firecut.ai/pricing/all/
+    category: design
+    offer: "Black Friday 2026: 50% OFF new annual plans (Max $59 to $29.50/mo, Pro $34 to $17/mo, billed yearly), no code needed (until Nov 30, 2026)"
+    description: AI video editing plugin for Premiere Pro & DaVinci Resolve.
