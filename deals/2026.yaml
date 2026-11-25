@@ -280,3 +280,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF the first 3 months of either plan with code BF2026, Basic US$29.40/month (was $49), Pro US$120/month (was $200) (until Dec 1, 2026)"
     description: Tests the LLM prompts in your app on other models and better wordings, and shows when a cheaper model or a prompt fix would do the job, with the evidence.
+  - name: Uptimecheck
+    url: https://uptimecheck.com/pricing/?utm_source=tushargugnani-bfcm&utm_medium=directory&utm_campaign=black-week-2026
+    category: hosting
+    offer: "Black Week 2026: 70% OFF the first year on yearly plans, no code needed, Start €108 to €29, Professional €348 to €99, Business €828 to €239, excl. VAT (until Dec 4, 2026)"
+    description: Uptime monitoring for websites, APIs, cron jobs and servers from 6 locations, with status pages and alerts by email, Slack, Teams, SMS and push.
