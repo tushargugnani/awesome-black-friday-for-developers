@@ -270,3 +270,8 @@ deals:
     category: laravel-php
     offer: "Black Friday 2026: 50% OFF the first year with code BF50FIRSTYEAR, or 30% OFF every renewal with code BF30FOREVER, on Silver and Gold yearly plans (Gold single project €199 to €99.50 first year), 50 uses per code (until Dec 1, 2026)"
     description: Open-core admin panel for Laravel, built on Blade and Bootstrap, for CRUDs, dashboards and back-offices that stay maintainable for years.
+  - name: ReUI
+    url: https://reui.io/pricing?utm_source=tushargugnani-bfcm&utm_medium=directory&utm_campaign=reui-nov26
+    category: ui-kits
+    offer: "Black Friday 2026: 30% OFF every license, no code needed (until Nov 30, 2026)"
+    description: The agent-ready layer for shadcn/ui.

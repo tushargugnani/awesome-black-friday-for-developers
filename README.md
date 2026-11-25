@@ -81,6 +81,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [SiteData](https://sitedata.dev/black-friday) | Website traffic and SEO research, competitor ads and reverse AdSense lookup, with an MCP server for AI assistants. | 50% off annual plans and 30% off monthly plans. Discounted renewals while subscribed, auto-applied at Stripe checkout, no code needed. Nov 24–30, 2026 (ends Nov 30 at 16:00 UTC). |
 | [ShiftApp](https://shiftapp.com/black-friday) | Employee scheduling on iPhone, iPad, Android and the web for planning shifts, managing time off and sharing schedules with staff. | Black Friday 2026: 88% OFF the first 8 months on new Essential monthly orders, code BLACKFRIDAY2026 auto-applied, E10 US$2.88/month then US$24/month before tax (Nov 23 - Dec 12, 2026) |
 | [Backpack for Laravel](https://backpackforlaravel.com/black-friday?ref=blackfridaydeals.dev&utm_source=blackfridaydeals-dev&utm_campaign=bf2026) | Open-core admin panel for Laravel, built on Blade and Bootstrap, for CRUDs, dashboards and back-offices that stay maintainable for years. | Black Friday 2026: 50% OFF the first year with code BF50FIRSTYEAR, or 30% OFF every renewal with code BF30FOREVER, on Silver and Gold yearly plans (Gold single project €199 to €99.50 first year), 50 uses per code (until Dec 1, 2026) |
+| [ReUI](https://reui.io/pricing?utm_source=tushargugnani-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui. | Black Friday 2026: 30% OFF every license, no code needed (until Nov 30, 2026) |
 
 ## Submit a deal
 
