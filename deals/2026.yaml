@@ -320,3 +320,9 @@ deals:
     category: mobile
     offer: "Black Friday 2026: 33% OFF Lifetime ($14.99 to $9.99) or free claim, no code needed (Nov 26 - Nov 30, 2026)"
     description: GPS route recording, golden hour sun tracking, and outdoor memories assistant for iOS.
+  - name: "Exploring Java Libraries: A Developer's Guide (Volume 1)"
+    url: https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50
+    category: books
+    offer: "Black Friday 2026: 50% OFF ($19.99 to $10.00) with code BLACKFRIDAY50, auto-applied via Leanpub link or use code on Gumroad (Nov 25 - Dec 10, 2026)"
+    description: "Practical guide covering 250 Java libraries for Core Systems, NIO, Concurrency, and JVM internals. Also available on Gumroad (https://solisdynamics.gumroad.com/l/java-libraries-guide-1)."
+    
