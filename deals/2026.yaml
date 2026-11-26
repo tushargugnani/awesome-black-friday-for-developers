@@ -295,3 +295,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF one-time license, 1 Mac $19.99 to $11.99, 2 Macs $21.99, 3 Macs $31.99, no code needed, applied automatically at checkout (Nov 25 - Dec 1, 2026)"
     description: Native Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve requests, answer questions, or jump to the exact terminal tab.
+  - name: Fundalyze
+    url: https://fundalyze.ai/blackfriday
+    category: developer-tools
+    offer: "Black Friday 2026: 35% OFF Monthly and Annual forever with code BF2026 ($49.99 to $32.49/mo, $499.99 to $324.99/yr), or $1,000 OFF Lifetime with code BFLTD1000 ($1,999.99 to $999.99), new customers (Nov 25 - Dec 1, 2026)"
+    description: Research platform for US stocks with a REST API and MCP server. Financials, filings, insider, 13F and Congress trades from SEC data, for Claude, Cursor, Python and JavaScript.
