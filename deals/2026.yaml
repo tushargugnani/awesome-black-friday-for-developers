@@ -310,3 +310,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 20% OFF the one-time license for Mac or Windows, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Nov 30, 2026)"
     description: Native Mac cleaner that clears Xcode, Homebrew, npm and simulator caches plus old Claude Code and Codex data, uninstalls apps with leftovers and maps your disk.
+  - name: Autentique
+    url: https://www.autentique.com.br/en
+    category: developer-tools
+    offer: "Black Friday 2026: 30% OFF the annual Professional plan ($179 to $119/year), no code needed, plus an extra 20% OFF with code BFF61H8, which stacks (Nov 25 - Nov 30, 2026)"
+    description: E-signature platform with an API. Send contracts and other documents for signature, with unlimited documents, users and signers on the Professional plan.
