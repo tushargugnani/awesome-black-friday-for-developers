@@ -295,3 +295,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 40% OFF one-time license, 1 Mac $19.99 to $11.99, 2 Macs $21.99, 3 Macs $31.99, no code needed, applied automatically at checkout (Nov 25 - Dec 1, 2026)"
     description: Native Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve requests, answer questions, or jump to the exact terminal tab.
+  - name: RecapOne
+    url: https://recapone.com/blackfriday
+    category: developer-tools
+    offer: "Black Friday 2026: 35% OFF Monthly and Annual forever with code BF2026 ($9.99 to $6.49/mo, $99.99 to $64.99/yr), or $200 OFF Lifetime with code BFLTD ($399 to $199), new customers (Nov 25 - Dec 1, 2026)"
+    description: One reader for articles, PDFs, books, newsletters, feeds, podcasts and YouTube as text, with highlights, full-text search and a daily recap of past highlights.
