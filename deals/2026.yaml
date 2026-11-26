@@ -305,3 +305,8 @@ deals:
     category: design
     offer: "Black Friday 2026: 50% OFF the first year on all yearly plans with code BLACKFRIDAY50, Starter $228 to $114, Team $588 to $294, Agency $1,188 to $594 (Nov 25 - Nov 30, 2026)"
     description: Visual feedback and approvals for agencies and product teams. Pin comments on live websites, videos, PDFs and designs; clients review from a link without an account.
+  - name: Mole
+    url: https://mole.fit/?utm_source=tushargugnani&utm_campaign=bf2026
+    category: developer-tools
+    offer: "Black Friday 2026: 20% OFF the one-time license for Mac or Windows, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Nov 30, 2026)"
+    description: Native Mac cleaner that clears Xcode, Homebrew, npm and simulator caches plus old Claude Code and Codex data, uninstalls apps with leftovers and maps your disk.
