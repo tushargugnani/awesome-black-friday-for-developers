@@ -87,6 +87,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [FireCut](https://firecut.ai/pricing/all/) | AI video editing plugin for Premiere Pro & DaVinci Resolve. | Black Friday 2026: 50% OFF new annual plans (Max $59 to $29.50/mo, Pro $34 to $17/mo, billed yearly), no code needed (until Nov 30, 2026) |
 | [Vibe Island](https://vibeisland.app/?ref=bfdeals-dev#pricing) | Native Mac notch panel for Claude Code, Codex, Cursor and 27 more AI coding agents. Approve requests, answer questions, or jump to the exact terminal tab. | Black Friday 2026: 40% OFF one-time license, 1 Mac $19.99 to $11.99, 2 Macs $21.99, 3 Macs $31.99, no code needed, applied automatically at checkout (Nov 25 - Dec 1, 2026) |
 | [1DevTool](https://1devtool.com/pricing) | Desktop workbench that runs Claude Code, Codex and other coding agents side by side, with a browser, database client and git built in. | Black Friday 2026: 50% OFF the one-time Pro licence ($29 to $14.50) with code BFDEALS50, or 30% OFF StoicSoft bundles with code BFDEALSBUNDLE30 (until Nov 29, 2026) |
+| [BugSmash](https://bugsmash.io/pricing?utm_source=tushargugnani&utm_medium=deal-list&utm_campaign=bf2026) | Visual feedback and approvals for agencies and product teams. Pin comments on live websites, videos, PDFs and designs; clients review from a link without an account. | Black Friday 2026: 50% OFF the first year on all yearly plans with code BLACKFRIDAY50, Starter $228 to $114, Team $588 to $294, Agency $1,188 to $594 (Nov 25 - Nov 30, 2026) |
 
 ## Submit a deal
 
