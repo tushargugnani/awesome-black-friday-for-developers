@@ -315,3 +315,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF the annual Professional plan ($179 to $119/year), no code needed, plus an extra 20% OFF with code BFF61H8, which stacks (Nov 25 - Nov 30, 2026)"
     description: E-signature platform with an API. Send contracts and other documents for signature, with unlimited documents, users and signers on the Professional plan.
+  - name: VibeShield Pro
+    url: https://vibe-checker.appwrite.network/
+    category: developer-tools
+    offer: "Black Friday 2026: 78% OFF Lifetime Pro ($9 to $2 one-time) and 83% OFF 3-in-1 Developer Suite ($29 to $5 one-time), no code needed, auto-applied at checkout (Nov 23 - Dec 2, 2026)"
+    description: Pre-launch web security scanner and MIT CLI for Next.js, Supabase and Firebase apps. Checks 52 JS secret patterns, PostgREST RLS, 10 headers, and .env/.git leaks.
