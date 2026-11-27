@@ -325,3 +325,8 @@ deals:
     category: mobile
     offer: "Black Friday 2026: 50% OFF Annual first year ($39.99 to $19.99) and Lifetime ($49.99 to $24.99), no code needed, auto-applied (Nov 20, 2026 - Jan 1, 2027)"
     description: iPhone and iPad teleprompter with voice-follow scrolling that follows your speaking rhythm, plus floating mode and one-tap recording for talking-head videos and livestreams.
+  - name: Pake
+    url: https://pake.run/?utm_source=tushargugnani&utm_campaign=bf2026
+    category: developer-tools
+    offer: "Black Friday 2026: 20% OFF the one-time license for Mac, Windows and Linux, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Dec 15, 2026)"
+    description: Desktop app that turns any website into a lightweight Mac, Windows or Linux app with no Node.js or Rust to install, from the maker of the open-source Pake CLI.
