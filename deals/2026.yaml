@@ -330,3 +330,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 20% OFF the one-time license for Mac, Windows and Linux, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Dec 15, 2026)"
     description: Desktop app that turns any website into a lightweight Mac, Windows or Linux app with no Node.js or Rust to install, from the maker of the open-source Pake CLI.
+  - name: Foca
+    url: https://foca.work/
+    category: mobile
+    offer: "Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026)"
+    description: A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases.
