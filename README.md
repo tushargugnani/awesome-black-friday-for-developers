@@ -97,6 +97,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Core](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026) |
 | [APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) | Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, plus mock, replay and diff. macOS and Linux. | Black Friday 2026: 30% OFF APXY Pro with code APXY2026 ($99 to $69.30, one-time, 3 devices), free tier has every feature with 10-minute sessions |
 | [Context.dev](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | Black Friday 2026: 30% OFF new purchases of paid plans for 1 year, automatically applied; no code needed (Nov 27 - Dec 1, 2026; ends at midnight EST after Dec 1) |
+| [Staxa](https://staxa.dev/#pricing) | SaaS hosting with an isolated app, database, subdomain and SSL for each customer, provisioned from a dashboard or one API call. | Black Friday 2026: 50% OFF the first 3 months of Starter ($49 to $24.50/mo) or Growth ($199 to $99.50/mo) with code STAXABF50, monthly billing, new subscriptions, first 100 customers (Nov 27 - Nov 30, 2026) |
 
 ## Submit a deal
 

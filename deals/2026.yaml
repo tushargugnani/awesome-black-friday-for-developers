@@ -350,3 +350,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF new purchases of paid plans for 1 year, automatically applied; no code needed (Nov 27 - Dec 1, 2026; ends at midnight EST after Dec 1)"
     description: Web search, scraping and crawling APIs for AI agents and applications.
+  - name: Staxa
+    url: https://staxa.dev/#pricing
+    category: hosting
+    offer: "Black Friday 2026: 50% OFF the first 3 months of Starter ($49 to $24.50/mo) or Growth ($199 to $99.50/mo) with code STAXABF50, monthly billing, new subscriptions, first 100 customers (Nov 27 - Nov 30, 2026)"
+    description: SaaS hosting with an isolated app, database, subdomain and SSL for each customer, provisioned from a dashboard or one API call.
