@@ -95,6 +95,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Pake](https://pake.run/?utm_source=tushargugnani&utm_campaign=bf2026) | Desktop app that turns any website into a lightweight Mac, Windows or Linux app with no Node.js or Rust to install, from the maker of the open-source Pake CLI. | Black Friday 2026: 20% OFF the one-time license for Mac, Windows and Linux, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Dec 15, 2026) |
 | [Foca](https://foca.work/) | A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases. | Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026) |
 | [Core](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026) |
+| [ScopeForge Studio](https://tolga571.github.io/black-friday-2026.html) | Offline freelance software quote estimator and SOW generator with risk multipliers (1.0x to 1.5x), 8 scope guardrails, A4 PDF export, and a 5-sheet Excel margin workbook. | Black Friday 2026: 40% OFF unlimited with code SCOPE40 ($4.00 to $2.40) or 60% OFF first 10 with code FIRST10 ($1.60) (Nov 27 - Dec 1, 2026) |
 
 ## Submit a deal
 
