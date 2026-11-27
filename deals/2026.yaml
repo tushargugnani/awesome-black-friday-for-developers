@@ -340,3 +340,8 @@ deals:
     category: mobile
     offer: "Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026)"
     description: An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout.
+  - name: NumberOTP
+    url: https://www.numberotp.com/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 20% OFF every OTP number and 50% OFF number rentals, no code needed, applied automatically at checkout (Nov 27 - Dec 1, 2026)"
+    description: Pay-per-use virtual phone numbers for receiving SMS/OTP codes when testing your own sign-up flows, with a REST API, SDKs, CLI and MCP server.
