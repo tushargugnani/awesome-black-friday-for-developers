@@ -345,3 +345,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF APXY Pro with code APXY2026 ($99 to $69.30, one-time, 3 devices), free tier has every feature with 10-minute sessions"
     description: Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, plus mock, replay and diff. macOS and Linux.
+  - name: Rakazo
+    url: https://rakazo.com/black-friday
+    category: developer-tools
+    offer: "Black Friday 2026: 30% OFF the first year of any yearly plan with code BLACKFRIDAY30, new yearly subscriptions only (Nov 27 - Nov 30, 2026)"
+    description: Open-source (Apache-2.0) platform for persistent AI agents, each with its own computer, memory and scheduled routines, reachable from Slack, Teams or email. Self-hosting is free.

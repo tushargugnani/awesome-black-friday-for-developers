@@ -96,6 +96,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Foca](https://foca.work/) | A calm Pomodoro timer for iPhone and Mac, with ambient sounds and guided stretch breaks. Foca for iPhone and Foca for Mac are separate Lifetime purchases. | Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026) |
 | [Core](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026) |
 | [APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) | Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, plus mock, replay and diff. macOS and Linux. | Black Friday 2026: 30% OFF APXY Pro with code APXY2026 ($99 to $69.30, one-time, 3 devices), free tier has every feature with 10-minute sessions |
+| [Rakazo](https://rakazo.com/black-friday) | Open-source (Apache-2.0) platform for persistent AI agents, each with its own computer, memory and scheduled routines, reachable from Slack, Teams or email. Self-hosting is free. | Black Friday 2026: 30% OFF the first year of any yearly plan with code BLACKFRIDAY30, new yearly subscriptions only (Nov 27 - Nov 30, 2026) |
 
 ## Submit a deal
 
