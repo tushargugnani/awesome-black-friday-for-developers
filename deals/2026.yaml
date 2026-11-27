@@ -350,3 +350,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF new purchases of paid plans for 1 year, automatically applied; no code needed (Nov 27 - Dec 1, 2026; ends at midnight EST after Dec 1)"
     description: Web search, scraping and crawling APIs for AI agents and applications.
+  - name: Beam
+    url: https://www.beam.cloud/pricing
+    category: hosting
+    offer: "Black Friday 2026: 2x credits, every credit purchase matched 1:1 up to $100 in free credits (buy $20, get $20 free), no code needed, applied automatically, new and existing accounts (Nov 27 - Nov 30, 2026; ends 11:59 PM ET)"
+    description: Serverless GPUs, sandboxes and VMs for running AI apps, inference and agents, deployed from Python or any container and billed by usage.
