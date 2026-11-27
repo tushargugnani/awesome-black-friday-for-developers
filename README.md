@@ -91,6 +91,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Mole](https://mole.fit/?utm_source=tushargugnani&utm_campaign=bf2026) | Native Mac cleaner that clears Xcode, Homebrew, npm and simulator caches plus old Claude Code and Codex data, uninstalls apps with leftovers and maps your disk. | Black Friday 2026: 20% OFF the one-time license for Mac or Windows, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Nov 30, 2026) |
 | [Autentique](https://www.autentique.com.br/en) | E-signature platform with an API. Send contracts and other documents for signature, with unlimited documents, users and signers on the Professional plan. | Black Friday 2026: 30% OFF the annual Professional plan ($179 to $119/year), no code needed, plus an extra 20% OFF with code BFF61H8, which stacks (Nov 25 - Nov 30, 2026) |
 | [RouteX](https://apps.apple.com/app/id6753095851) | GPS route recording, golden hour sun tracking, and outdoor memories assistant for iOS. | Black Friday 2026: 33% OFF Lifetime ($14.99 to $9.99) or free claim, no code needed (Nov 26 - Nov 30, 2026) |
+| [holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY) | Browser studio for layered trading cards and photocards with 3D holographic/foil previews, 300 DPI layout exports, and AI line art. | Black Friday 2026: 20% OFF all one-time AI credit packs + 10% extra bonus credits automatically with code BLACKFRIDAY, Starter $4 (550 credits), Standard $8 (1,320 credits), Studio $20 (3,900 credits) (Nov 26 - Dec 1, 2026) |
 
 ## Submit a deal
 
