@@ -92,6 +92,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Autentique](https://www.autentique.com.br/en) | E-signature platform with an API. Send contracts and other documents for signature, with unlimited documents, users and signers on the Professional plan. | Black Friday 2026: 30% OFF the annual Professional plan ($179 to $119/year), no code needed, plus an extra 20% OFF with code BFF61H8, which stacks (Nov 25 - Nov 30, 2026) |
 | [RouteX](https://apps.apple.com/app/id6753095851) | GPS route recording, golden hour sun tracking, and outdoor memories assistant for iOS. | Black Friday 2026: 33% OFF Lifetime ($14.99 to $9.99) or free claim, no code needed (Nov 26 - Nov 30, 2026) |
 | [AI Teleprompter](https://aiteleprompterapp.com) | iPhone and iPad teleprompter with voice-follow scrolling that follows your speaking rhythm, plus floating mode and one-tap recording for talking-head videos and livestreams. | Black Friday 2026: 50% OFF Annual first year ($39.99 to $19.99) and Lifetime ($49.99 to $24.99), no code needed, auto-applied (Nov 20, 2026 - Jan 1, 2027) |
+| [Pake](https://pake.run/?utm_source=tushargugnani&utm_campaign=bf2026) | Desktop app that turns any website into a lightweight Mac, Windows or Linux app with no Node.js or Rust to install, from the maker of the open-source Pake CLI. | Black Friday 2026: 20% OFF the one-time license for Mac, Windows and Linux, $19 to $15.20, no code needed, applied automatically at checkout (Nov 25 - Dec 15, 2026) |
 
 ## Submit a deal
 
