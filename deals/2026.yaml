@@ -345,3 +345,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF APXY Pro with code APXY2026 ($99 to $69.30, one-time, 3 devices), free tier has every feature with 10-minute sessions"
     description: Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, plus mock, replay and diff. macOS and Linux.
+  - name: Context.dev
+    url: https://www.context.dev/pricing
+    category: developer-tools
+    offer: "Black Friday 2026: 30% OFF paid plans for 1 year, automatically applied; no code needed (ends Dec 1, 2026)"
+    description: Web search, scraping and crawling APIs for AI agents and applications.
