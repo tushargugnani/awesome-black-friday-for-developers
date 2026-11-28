@@ -355,3 +355,8 @@ deals:
     category: hosting
     offer: "Black Friday 2026: 2x credits, every credit purchase matched 1:1 up to $100 in free credits (buy $20, get $20 free), no code needed, applied automatically, new and existing accounts (Nov 27 - Nov 30, 2026; ends 11:59 PM ET)"
     description: Serverless GPUs, sandboxes and VMs for running AI apps, inference and agents, deployed from Python or any container and billed by usage.
+  - name: The Cyber Instructor
+    url: https://learn.thecyberinstructor.com/
+    category: courses
+    offer: "Black Friday 2026: 30% OFF everything with code BF30, including the 6-week live AI for Cybersecurity bootcamp ($2,099 to $1,469) and TCI Pro (Nov 23 - Nov 30, 2026; bootcamp price until Dec 4, 2026)"
+    description: Cybersecurity training with a live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and a self-paced subscription.
