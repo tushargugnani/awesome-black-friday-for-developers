@@ -360,3 +360,8 @@ deals:
     category: courses
     offer: "Black Friday 2026: 30% OFF everything with code BF30, including the 6-week live AI for Cybersecurity bootcamp ($2,099 to $1,469) and TCI Pro (Nov 23 - Nov 30, 2026; bootcamp price until Dec 4, 2026)"
     description: Cybersecurity training with a live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and a self-paced subscription.
+  - name: refer.is
+    url: https://refer.is/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bfcm-2026&utm_content=tushar
+    category: developer-tools
+    offer: "Black Friday 2026: 30% off all plans with code BF2026 for new customers (Nov 27 - Dec 1, 2026)"
+    description: Link shortener with QR codes and click analytics, API and MCP server for developers.
