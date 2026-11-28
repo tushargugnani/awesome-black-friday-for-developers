@@ -363,5 +363,5 @@ deals:
   - name: refer.is
     url: https://refer.is/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bfcm-2026&utm_content=tushar
     category: developer-tools
-    offer: "Black Friday 2026: 30% off all plans with code BF2026 for new customers (Nov 27 - Dec 1, 2026)"
+    offer: "Black Friday 2026: 30% off all plans with code BF2026 (Nov 27 - Dec 1, 2026)"
     description: Link shortener with QR codes and click analytics, API and MCP server for developers.
