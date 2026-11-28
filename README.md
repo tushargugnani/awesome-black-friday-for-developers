@@ -99,6 +99,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Context.dev](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | Black Friday 2026: 30% OFF new purchases of paid plans for 1 year, automatically applied; no code needed (Nov 27 - Dec 1, 2026; ends at midnight EST after Dec 1) |
 | [Beam](https://www.beam.cloud/pricing) | Serverless GPUs, sandboxes and VMs for running AI apps, inference and agents, deployed from Python or any container and billed by usage. | Black Friday 2026: 2x credits, every credit purchase matched 1:1 up to $100 in free credits (buy $20, get $20 free), no code needed, applied automatically, new and existing accounts (Nov 27 - Nov 30, 2026; ends 11:59 PM ET) |
 | [The Cyber Instructor](https://learn.thecyberinstructor.com/) | Cybersecurity training with a live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and a self-paced subscription. | Black Friday 2026: 30% OFF everything with code BF30, including the 6-week live AI for Cybersecurity bootcamp ($2,099 to $1,469) and TCI Pro (Nov 23 - Nov 30, 2026; bootcamp price until Dec 4, 2026) |
+| [Screen Charm](https://screencharm.com) | Mac screen recorder with auto-zoom on clicks, a smooth cursor, auto captions, vertical exports and 4K export. One-time purchase, lifetime license. | Black Friday 2026: 39% OFF the $79 lifetime deal (~$49; regular $149), no code needed, applied automatically (Nov 27 - Dec 1, 2026) |
 
 ## Submit a deal
 
