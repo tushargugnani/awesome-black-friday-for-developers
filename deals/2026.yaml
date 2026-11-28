@@ -360,3 +360,8 @@ deals:
     category: courses
     offer: "Black Friday 2026: 30% OFF everything with code BF30, including the 6-week live AI for Cybersecurity bootcamp ($2,099 to $1,469) and TCI Pro (Nov 23 - Nov 30, 2026; bootcamp price until Dec 4, 2026)"
     description: Cybersecurity training with a live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and a self-paced subscription.
+  - name: AdverseMonitor
+    url: https://adversemonitor.com/black-friday
+    category: developer-tools
+    offer: "40–60% off the first year for new annual subscribers, applied automatically through January 1, 2027 UTC."
+    description: "Alerts security teams when ransomware leak sites or Telegram posts name a monitored domain. MSSP Pro and Scale include a read API."
