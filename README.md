@@ -97,6 +97,7 @@ Star the repo if you want a reminder when 2026 deals start landing.
 | [Core](https://foca.work/core.html) | An interval timer for HIIT, Tabata, circuits and boxing, big, clear and easy to follow mid-workout. | Black Friday 2026: Lifetime access $14.99 to $7.99 (US App Store), no code needed (Nov 27 - Dec 1, 2026) |
 | [APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) | Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, plus mock, replay and diff. macOS and Linux. | Black Friday 2026: 30% OFF APXY Pro with code APXY2026 ($99 to $69.30, one-time, 3 devices), free tier has every feature with 10-minute sessions |
 | [Context.dev](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | Black Friday 2026: 30% OFF new purchases of paid plans for 1 year, automatically applied; no code needed (Nov 27 - Dec 1, 2026; ends at midnight EST after Dec 1) |
+| [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) | Open-source cloud coding agent: mention @Computer in Slack and it runs Claude Code or Codex on its own cloud machine, then opens a pull request. Self-hostable. | Black Friday 2026: 50% OFF new Pro ($20 to $10/mo) and Max ($200 to $100/mo) plans with double work minutes (4,000 and 50,000), no code needed, price kept 12 months for the first 50 workspaces and 3 months after (Nov 27 - Nov 30, 2026 PT) |
 
 ## Submit a deal
 

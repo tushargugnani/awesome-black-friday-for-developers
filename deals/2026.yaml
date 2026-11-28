@@ -350,3 +350,8 @@ deals:
     category: developer-tools
     offer: "Black Friday 2026: 30% OFF new purchases of paid plans for 1 year, automatically applied; no code needed (Nov 27 - Dec 1, 2026; ends at midnight EST after Dec 1)"
     description: Web search, scraping and crawling APIs for AI agents and applications.
+  - name: OpenComputer
+    url: https://opencomputer.dev/blog/black-friday-2026/
+    category: developer-tools
+    offer: "Black Friday 2026: 50% OFF new Pro ($20 to $10/mo) and Max ($200 to $100/mo) plans with double work minutes (4,000 and 50,000), no code needed, price kept 12 months for the first 50 workspaces and 3 months after (Nov 27 - Nov 30, 2026 PT)"
+    description: "Open-source cloud coding agent: mention @Computer in Slack and it runs Claude Code or Codex on its own cloud machine, then opens a pull request. Self-hostable."
